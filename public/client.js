@@ -25,5 +25,7 @@ $(function() {
 
   var socket = io();
 
-socket.emit('add user', 'Maurice');
+  setInterval(() => {
+    socket.emit('event', 'Maurice');
+  }, 5000);
 });
