@@ -33,23 +33,28 @@ var dreams = [
   "Wash the dishes"
   ];
 
+var openov = require('./openov');
+var subject = openov.start();
+
+
 
 var server = require('http').createServer(app);
 var io = require('socket.io')(server);
 io.on('connection', function(socket){
-  console.log('connection', socket)
+  var subscription = subject.subscribe(data => socket.emit('openov', data.toString()));
 
   socket.on('event', function(data){
     console.log('event data', data  )
   });
+
   socket.on('disconnect', function(){
+    subscription.dispose();
     console.log('disconnect')
   });
 });
-// server.listen(process.env.PORT);
 
 
 // listen for requests :)
-var listener = server.listen(process.env.PORT, function () {
+var listener = server.listen(process.env.PORT || 3000, function () {
   console.log('Your app is listening on port ' + listener.address().port);
 });

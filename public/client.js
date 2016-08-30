@@ -25,7 +25,9 @@ $(function() {
 
   var socket = io();
 
-  setInterval(() => {
-    socket.emit('event', 'Maurice');
-  }, 5000);
+  // setInterval(() => {
+  //   socket.emit('event', 'Maurice');
+  // }, 5000);
+
+  socket.on('openov', data => console.log(data.toString()));
 });
