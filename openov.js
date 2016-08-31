@@ -3,6 +3,7 @@ var sock = zmq.socket('sub');
 var zlib = require("zlib");
 var rx = require('rx');
 var Converter = require("csvtojson").Converter;
+const camelCase = require('camelcase');
 
 var data = {};
 
@@ -29,26 +30,22 @@ function decodeToArray(decoded, cb) {
             var keys = Object.keys(fields)
 
             rr3.map(r => {
-                    var row = {};
-                    keys.forEach(k => {
-                        var value = r[k];
-                        if (value !== '\\0') {
-                            row[fields[k]] = value;
-                        }
+                var row = {};
+                keys.forEach(k => {
+                    var value = r[k];
+                    if (value !== '\\0') {
+                        row[camelCase(fields[k])] = value;
+                    }
 
-                        var key = `${row.LocalServiceLevelCode}_${row.LinePlanningNumber}_${row.JourneyNumber}_${row.FortifyOrderNumber}_${row.LineDirection}`
-                        if (row.JourneyNumber) {
-                        // var journey = data[row.JourneyNumber] = data[row.JourneyNumber] || {};
+                    var key = `${row.localServiceLevelCode}_${row.linePlanningNumber}_${row.journeyNumber}_${row.fortifyOrderNumber}_${row.lineDirection}`
+                    if (row.journeyNumber) {
 
-                        if (row.LineDirection && row.UserStopOrderNumber && (row.Detected_RD_Y || row.TripStopStatus === 'ARRIVED') && row.LineDirection === 1) {
-                            // var d = journey[row.LineDirection] = journey[row.LineDirection] || {};
-
-                            //  ${timingPointName(row.TimingPointCode)} ${userStop(row.UserStopCode)}
+                        if (row.lineDirection && row.userStopOrderNumber && (row.detectedRdY || row.tripStopStatus === 'ARRIVED') && row.lineDirection === 1) {
                             var d = data[key] = data[key] || {};
-                            d[row.UserStopOrderNumber] = 
-                            `${row['\\LDataOwnerCode']} ${row.TripStopStatus} ${timingPointName(row.TimingPointCode)} ${row.ExpectedArrivalTime} ${row.RecordedArrivalTime || 'Not yet there'} ${row.Detected_RD_X || '?'} ${row.Detected_RD_Y || '?'} ${row.DistanceSinceDetectedUserStop}`;
+                            d[row.userStopOrderNumber] = 
+                            `${row['\\LDataOwnerCode']} ${row.tripStopStatus} ${timingPointName(row.timingPointCode)} ${row.expectedArrivalTime} ${row.recordedArrivalTime || 'Not yet there'} ${row.detectedRdX || '?'} ${row.detectedRdY || '?'} ${row.distanceSinceDetectedUserStop}`;
 
-                           cb(row);                                            
+                            cb(row);                                            
                             console.log(data);
                         }
                     }

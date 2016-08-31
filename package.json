@@ -10,6 +10,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "camelcase": "^3.0.0",
     "csvtojson": "^1.0.0",
     "express": "^4.12.4",
     "rx": "^4.1.0",
