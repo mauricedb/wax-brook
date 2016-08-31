@@ -1,1 +1,2272 @@
-{"32001119":{"Longitude":4.2825446,"Latitude":52.080498,"TimingPointTown":"Den Haag","TimingPointName":"Conradkade","TimingPointCode":"32001119","StopAreaCode":"1119","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32001122":{"Longitude":4.288064,"Latitude":52.0815,"TimingPointTown":"Den Haag","TimingPointName":"Van Speijkstraat","TimingPointCode":"32001122","StopAreaCode":"1121","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"NOTACCESSIBLE"},"32001214":{"Longitude":4.2556496,"Latitude":52.070965,"TimingPointTown":"Den Haag","TimingPointName":"Zonnebloemstraat","TimingPointCode":"32001214","StopAreaCode":"1213","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32001217":{"Longitude":4.2614293,"Latitude":52.073135,"TimingPointTown":"Den Haag","TimingPointName":"Azaleaplein","TimingPointCode":"32001217","StopAreaCode":"1217","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32001415":{"Longitude":4.234448,"Latitude":52.063892,"TimingPointTown":"Den Haag","TimingPointName":"Muurbloemweg","TimingPointCode":"32001415","StopAreaCode":"1415","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32001420":{"Longitude":4.2454786,"Latitude":52.06714,"TimingPointTown":"Den Haag","TimingPointName":"De Savornin Lohmanplein","TimingPointCode":"32001420","StopAreaCode":"1419","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32001423":{"Longitude":4.2394423,"Latitude":52.065346,"TimingPointTown":"Den Haag","TimingPointName":"Hoefbladlaan","TimingPointCode":"32001423","StopAreaCode":"1421","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32001801":{"Longitude":4.2307606,"Latitude":52.06268,"TimingPointTown":"Den Haag","TimingPointName":"Heliotrooplaan","TimingPointCode":"32001801","StopAreaCode":"1801","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32001805":{"Longitude":4.227958,"Latitude":52.057133,"TimingPointTown":"Den Haag","TimingPointName":"Pisuissestraat","TimingPointCode":"32001805","StopAreaCode":"1805","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"NOTACCESSIBLE"},"32001812":{"Longitude":4.2326546,"Latitude":52.05879,"TimingPointTown":"Den Haag","TimingPointName":"Mozartlaan","TimingPointCode":"32001812","StopAreaCode":"1812","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32001817":{"Longitude":4.232671,"Latitude":52.05477,"TimingPointTown":"Den Haag","TimingPointName":"Arnold Spoelplein","TimingPointCode":"32001817","StopAreaCode":"1817"},"32001904":{"Longitude":4.2513013,"Latitude":52.069298,"TimingPointTown":"Den Haag","TimingPointName":"Appelstraat","TimingPointCode":"32001904","StopAreaCode":"1903","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32002003":{"Longitude":4.266722,"Latitude":52.07498,"TimingPointTown":"Den Haag","TimingPointName":"Goudenregenstraat","TimingPointCode":"32002003","StopAreaCode":"2003","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32002006":{"Longitude":4.2705665,"Latitude":52.076412,"TimingPointTown":"Den Haag","TimingPointName":"Fahrenheitstraat","TimingPointCode":"32002006","StopAreaCode":"2005","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32002010":{"Longitude":4.276149,"Latitude":52.07838,"TimingPointTown":"Den Haag","TimingPointName":"Valkenbosplein","TimingPointCode":"32002010","StopAreaCode":"2010","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32002212":{"Longitude":4.292386,"Latitude":52.07837,"TimingPointTown":"Den Haag","TimingPointName":"Elandstraat","TimingPointCode":"32002212","StopAreaCode":"2212","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32002605":{"Longitude":4.323761,"Latitude":52.081047,"TimingPointTown":"Den Haag","TimingPointName":"Centraal Station","TimingPointCode":"32002605","StopAreaCode":"2605","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32002663":{"Longitude":4.334633,"Latitude":52.08031,"TimingPointTown":"Den Haag","TimingPointName":"Beatrixkwartier","TimingPointCode":"32002663","StopAreaCode":"2662","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32002683":{"Longitude":4.342067,"Latitude":52.078712,"TimingPointTown":"Den Haag","TimingPointName":"Laan van NOI","TimingPointCode":"32002683","StopAreaCode":"2682","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32002820":{"Longitude":4.299133,"Latitude":52.0733,"TimingPointTown":"Den Haag","TimingPointName":"MCH Westeinde","TimingPointCode":"32002820","StopAreaCode":"2820","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32002824":{"Longitude":4.3036914,"Latitude":52.073593,"TimingPointTown":"Den Haag","TimingPointName":"Brouwersgracht","TimingPointCode":"32002824","StopAreaCode":"2823","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32002881":{"Longitude":4.313947,"Latitude":52.077194,"TimingPointTown":"Den Haag","TimingPointName":"Spui","TimingPointCode":"32002881","StopAreaCode":"2880","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32002883":{"Longitude":4.3086095,"Latitude":52.07531,"TimingPointTown":"Den Haag","TimingPointName":"Grote Markt","TimingPointCode":"32002883","StopAreaCode":"2882","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32007212":{"Longitude":4.3817115,"Latitude":52.07773,"TimingPointTown":"Voorburg","TimingPointName":"Leidschendam-Voorburg","TimingPointCode":"32007212","StopAreaCode":"7211","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32007612":{"Longitude":4.3649726,"Latitude":52.082474,"TimingPointTown":"Voorburg","TimingPointName":"Voorburg 't Loo","TimingPointCode":"32007612","StopAreaCode":"7611","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008102":{"Longitude":4.470641,"Latitude":52.06278,"TimingPointTown":"Zoetermeer","TimingPointName":"Voorweg Laag","TimingPointCode":"32008102","StopAreaCode":"8101","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008104":{"Longitude":4.482683,"Latitude":52.060795,"TimingPointTown":"Zoetermeer","TimingPointName":"Centrum-West","TimingPointCode":"32008104","StopAreaCode":"8103","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008106":{"Longitude":4.4928856,"Latitude":52.06105,"TimingPointTown":"Zoetermeer","TimingPointName":"Stadhuis","TimingPointCode":"32008106","StopAreaCode":"8105","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008108":{"Longitude":4.5063868,"Latitude":52.059696,"TimingPointTown":"Zoetermeer","TimingPointName":"Palenstein","TimingPointCode":"32008108","StopAreaCode":"8107","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008110":{"Longitude":4.5151305,"Latitude":52.06297,"TimingPointTown":"Zoetermeer","TimingPointName":"Seghwaert","TimingPointCode":"32008110","StopAreaCode":"8109","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008112":{"Longitude":4.510172,"Latitude":52.06894,"TimingPointTown":"Zoetermeer","TimingPointName":"Leidsewallen","TimingPointCode":"32008112","StopAreaCode":"8111","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008114":{"Longitude":4.495076,"Latitude":52.07188,"TimingPointTown":"Zoetermeer","TimingPointName":"De Leyens","TimingPointCode":"32008114","StopAreaCode":"8113","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008116":{"Longitude":4.478872,"Latitude":52.066795,"TimingPointTown":"Zoetermeer","TimingPointName":"Buytenwegh","TimingPointCode":"32008116","StopAreaCode":"8115","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008118":{"Longitude":4.4712067,"Latitude":52.062923,"TimingPointTown":"Zoetermeer","TimingPointName":"Voorweg Hoog","TimingPointCode":"32008118","StopAreaCode":"8117","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008120":{"Longitude":4.470058,"Latitude":52.055653,"TimingPointTown":"Zoetermeer","TimingPointName":"Meerzicht","TimingPointCode":"32008120","StopAreaCode":"8119","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008122":{"Longitude":4.4771004,"Latitude":52.04848,"TimingPointTown":"Zoetermeer","TimingPointName":"Driemanspolder","TimingPointCode":"32008122","StopAreaCode":"8121","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008124":{"Longitude":4.4869385,"Latitude":52.050777,"TimingPointTown":"Zoetermeer","TimingPointName":"Delftsewallen","TimingPointCode":"32008124","StopAreaCode":"8123","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008126":{"Longitude":4.4917116,"Latitude":52.05413,"TimingPointTown":"Zoetermeer","TimingPointName":"Dorp","TimingPointCode":"32008126","StopAreaCode":"8125","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008127":{"Longitude":4.4830813,"Latitude":52.060562,"TimingPointTown":"Zoetermeer","TimingPointName":"Centrum-West","TimingPointCode":"32008127","StopAreaCode":"8103","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32008134":{"Longitude":4.4830813,"Latitude":52.060562,"TimingPointTown":"Zoetermeer","TimingPointName":"Centrum-West","TimingPointCode":"32008134","StopAreaCode":"8103","TimingPointWheelChairAccessible":"NOTACCESSIBLE","TimingPointVisualAccessible":"NOTACCESSIBLE"},"32009595":{"Longitude":4.3923945,"Latitude":52.070312,"TimingPointTown":"Den Haag","TimingPointName":"Forepark","TimingPointCode":"32009595","StopAreaCode":"9594","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"},"32009597":{"Longitude":4.399756,"Latitude":52.06523,"TimingPointTown":"Den Haag","TimingPointName":"Leidschenveen","TimingPointCode":"32009597","StopAreaCode":"9596","TimingPointWheelChairAccessible":"ACCESSIBLE","TimingPointVisualAccessible":"ACCESSIBLE"}}
+{
+  "32000215": {
+    "Longitude": 4.2894125,
+    "Latitude": 52.116894,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Zwarte Pad",
+    "TimingPointCode": "32000215",
+    "StopAreaCode": "207"
+  },
+  "32000217": {
+    "Longitude": 4.287164,
+    "Latitude": 52.112144,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Harstenhoekplein",
+    "TimingPointCode": "32000217",
+    "StopAreaCode": "217",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32000221": {
+    "Longitude": 4.290166,
+    "Latitude": 52.1106,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Gentsestraat",
+    "TimingPointCode": "32000221",
+    "StopAreaCode": "221",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32000311": {
+    "Longitude": 4.301306,
+    "Latitude": 52.10035,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Plesmanweg",
+    "TimingPointCode": "32000311",
+    "StopAreaCode": "311",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32000406": {
+    "Longitude": 4.3185773,
+    "Latitude": 52.104443,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Waalsdorperweg",
+    "TimingPointCode": "32000406",
+    "StopAreaCode": "405",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32000440": {
+    "Longitude": 4.330289,
+    "Latitude": 52.094364,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Breitnerlaan",
+    "TimingPointCode": "32000440",
+    "StopAreaCode": "440",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32000502": {
+    "Longitude": 4.2941966,
+    "Latitude": 52.089657,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Ary van der Spuyweg",
+    "TimingPointCode": "32000502",
+    "StopAreaCode": "501",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32000506": {
+    "Longitude": 4.307893,
+    "Latitude": 52.094727,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Riouwstraat",
+    "TimingPointCode": "32000506",
+    "StopAreaCode": "505",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32000507": {
+    "Longitude": 4.297874,
+    "Latitude": 52.087246,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Vredespaleis",
+    "TimingPointCode": "32000507",
+    "StopAreaCode": "507",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32000509": {
+    "Longitude": 4.299012,
+    "Latitude": 52.08725,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Vredespaleis",
+    "TimingPointCode": "32000509",
+    "StopAreaCode": "507",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32000513": {
+    "Longitude": 4.3095145,
+    "Latitude": 52.092857,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Laan Copes van Cattenburch",
+    "TimingPointCode": "32000513",
+    "StopAreaCode": "513",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32000515": {
+    "Longitude": 4.3014383,
+    "Latitude": 52.087082,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Alexanderplein",
+    "TimingPointCode": "32000515",
+    "StopAreaCode": "515",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32000603": {
+    "Longitude": 4.299918,
+    "Latitude": 52.097404,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Madurodam",
+    "TimingPointCode": "32000603",
+    "StopAreaCode": "603",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32000722": {
+    "Longitude": 4.2789197,
+    "Latitude": 52.101967,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Duinstraat",
+    "TimingPointCode": "32000722",
+    "StopAreaCode": "722",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32000806": {
+    "Longitude": 4.2556267,
+    "Latitude": 52.086292,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Tholensestraat",
+    "TimingPointCode": "32000806",
+    "StopAreaCode": "805",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32000809": {
+    "Longitude": 4.2523785,
+    "Latitude": 52.087788,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Markenseplein",
+    "TimingPointCode": "32000809",
+    "StopAreaCode": "802",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32000811": {
+    "Longitude": 4.2523503,
+    "Latitude": 52.08774,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Markenseplein",
+    "TimingPointCode": "32000811",
+    "StopAreaCode": "801"
+  },
+  "32000903": {
+    "Longitude": 4.2721553,
+    "Latitude": 52.095196,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Van Boetzelaerlaan",
+    "TimingPointCode": "32000903",
+    "StopAreaCode": "903",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32000905": {
+    "Longitude": 4.281344,
+    "Latitude": 52.09897,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Scheveningseweg",
+    "TimingPointCode": "32000905",
+    "StopAreaCode": "904",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32000907": {
+    "Longitude": 4.281958,
+    "Latitude": 52.099514,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Frankenslag",
+    "TimingPointCode": "32000907",
+    "StopAreaCode": "906",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32001101": {
+    "Longitude": 4.273797,
+    "Latitude": 52.08554,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Houtrust",
+    "TimingPointCode": "32001101",
+    "StopAreaCode": "1101",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32001103": {
+    "Longitude": 4.278058,
+    "Latitude": 52.087276,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Cornelis de Wittlaan",
+    "TimingPointCode": "32001103",
+    "StopAreaCode": "1103",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001108": {
+    "Longitude": 4.276949,
+    "Latitude": 52.082584,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Groot Hertoginnelaan",
+    "TimingPointCode": "32001108",
+    "StopAreaCode": "1108",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32001109": {
+    "Longitude": 4.2774935,
+    "Latitude": 52.082394,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Groot Hertoginnelaan",
+    "TimingPointCode": "32001109",
+    "StopAreaCode": "1108",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001115": {
+    "Longitude": 4.2827806,
+    "Latitude": 52.08511,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Groot Hertoginnelaan",
+    "TimingPointCode": "32001115",
+    "StopAreaCode": "1114",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32001119": {
+    "Longitude": 4.2825446,
+    "Latitude": 52.080498,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Conradkade",
+    "TimingPointCode": "32001119",
+    "StopAreaCode": "1119",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001120": {
+    "Longitude": 4.283213,
+    "Latitude": 52.080612,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Conradkade",
+    "TimingPointCode": "32001120",
+    "StopAreaCode": "1119",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001121": {
+    "Longitude": 4.288392,
+    "Latitude": 52.08122,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Van Speijkstraat",
+    "TimingPointCode": "32001121",
+    "StopAreaCode": "1121",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32001122": {
+    "Longitude": 4.288064,
+    "Latitude": 52.0815,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Van Speijkstraat",
+    "TimingPointCode": "32001122",
+    "StopAreaCode": "1121",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32001203": {
+    "Longitude": 4.260749,
+    "Latitude": 52.080463,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Nieboerweg",
+    "TimingPointCode": "32001203",
+    "StopAreaCode": "1203",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001209": {
+    "Longitude": 4.273223,
+    "Latitude": 52.085155,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Houtrustweg",
+    "TimingPointCode": "32001209",
+    "StopAreaCode": "1209",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001213": {
+    "Longitude": 4.257023,
+    "Latitude": 52.071457,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Zonnebloemstraat",
+    "TimingPointCode": "32001213",
+    "StopAreaCode": "1213",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001214": {
+    "Longitude": 4.2556496,
+    "Latitude": 52.070965,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Zonnebloemstraat",
+    "TimingPointCode": "32001214",
+    "StopAreaCode": "1213",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001217": {
+    "Longitude": 4.2614293,
+    "Latitude": 52.073135,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Azaleaplein",
+    "TimingPointCode": "32001217",
+    "StopAreaCode": "1217",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001218": {
+    "Longitude": 4.261864,
+    "Latitude": 52.073254,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Azaleaplein",
+    "TimingPointCode": "32001218",
+    "StopAreaCode": "1217",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001301": {
+    "Longitude": 4.257452,
+    "Latitude": 52.08508,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Doctor van Welylaan",
+    "TimingPointCode": "32001301",
+    "StopAreaCode": "1301",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32001415": {
+    "Longitude": 4.234448,
+    "Latitude": 52.063892,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Muurbloemweg",
+    "TimingPointCode": "32001415",
+    "StopAreaCode": "1415",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001416": {
+    "Longitude": 4.2349143,
+    "Latitude": 52.063915,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Muurbloemweg",
+    "TimingPointCode": "32001416",
+    "StopAreaCode": "1415",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001419": {
+    "Longitude": 4.2461157,
+    "Latitude": 52.067314,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "De Savornin Lohmanplein",
+    "TimingPointCode": "32001419",
+    "StopAreaCode": "1419",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001420": {
+    "Longitude": 4.2454786,
+    "Latitude": 52.06714,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "De Savornin Lohmanplein",
+    "TimingPointCode": "32001420",
+    "StopAreaCode": "1419",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001421": {
+    "Longitude": 4.240556,
+    "Latitude": 52.065723,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Hoefbladlaan",
+    "TimingPointCode": "32001421",
+    "StopAreaCode": "1421",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001423": {
+    "Longitude": 4.2394423,
+    "Latitude": 52.065346,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Hoefbladlaan",
+    "TimingPointCode": "32001423",
+    "StopAreaCode": "1421",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001424": {
+    "Longitude": 4.239894,
+    "Latitude": 52.065376,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Hoefbladlaan",
+    "TimingPointCode": "32001424",
+    "StopAreaCode": "1421",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001602": {
+    "Longitude": 4.236595,
+    "Latitude": 52.04902,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Kraayensteinlaan",
+    "TimingPointCode": "32001602",
+    "StopAreaCode": "1601",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001708": {
+    "Longitude": 4.2392077,
+    "Latitude": 52.054024,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Loosduinse Hoofdstraat",
+    "TimingPointCode": "32001708",
+    "StopAreaCode": "1707",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32001801": {
+    "Longitude": 4.2307606,
+    "Latitude": 52.06268,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Heliotrooplaan",
+    "TimingPointCode": "32001801",
+    "StopAreaCode": "1801",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001802": {
+    "Longitude": 4.231299,
+    "Latitude": 52.06272,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Heliotrooplaan",
+    "TimingPointCode": "32001802",
+    "StopAreaCode": "1801",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001805": {
+    "Longitude": 4.227958,
+    "Latitude": 52.057133,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Pisuissestraat",
+    "TimingPointCode": "32001805",
+    "StopAreaCode": "1805",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32001806": {
+    "Longitude": 4.227922,
+    "Latitude": 52.05741,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Pisuissestraat",
+    "TimingPointCode": "32001806",
+    "StopAreaCode": "1805",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001812": {
+    "Longitude": 4.2326546,
+    "Latitude": 52.05879,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Mozartlaan",
+    "TimingPointCode": "32001812",
+    "StopAreaCode": "1812",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001813": {
+    "Longitude": 4.2317004,
+    "Latitude": 52.06073,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Mozartlaan",
+    "TimingPointCode": "32001813",
+    "StopAreaCode": "1812",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001818": {
+    "Longitude": 4.232893,
+    "Latitude": 52.054638,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Arnold Spoelplein",
+    "TimingPointCode": "32001818",
+    "StopAreaCode": "1817",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32001820": {
+    "Longitude": 4.2341237,
+    "Latitude": 52.054417,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Arnold Spoelplein",
+    "TimingPointCode": "32001820",
+    "StopAreaCode": "1820",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001821": {
+    "Longitude": 4.233923,
+    "Latitude": 52.054287,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Arnold Spoelplein",
+    "TimingPointCode": "32001821",
+    "StopAreaCode": "1820",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001835": {
+    "Longitude": 4.2278705,
+    "Latitude": 52.05716,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Pisuissestraat",
+    "TimingPointCode": "32001835",
+    "StopAreaCode": "1834",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001903": {
+    "Longitude": 4.2517505,
+    "Latitude": 52.069427,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Appelstraat",
+    "TimingPointCode": "32001903",
+    "StopAreaCode": "1903",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001904": {
+    "Longitude": 4.2513013,
+    "Latitude": 52.069298,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Appelstraat",
+    "TimingPointCode": "32001904",
+    "StopAreaCode": "1903",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001908": {
+    "Longitude": 4.248111,
+    "Latitude": 52.06629,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Colijnplein",
+    "TimingPointCode": "32001908",
+    "StopAreaCode": "1907",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001913": {
+    "Longitude": 4.2524095,
+    "Latitude": 52.06414,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Thorbeckelaan",
+    "TimingPointCode": "32001913",
+    "StopAreaCode": "1913",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32001919": {
+    "Longitude": 4.2541747,
+    "Latitude": 52.060074,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Walnootstraat",
+    "TimingPointCode": "32001919",
+    "StopAreaCode": "1919",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002003": {
+    "Longitude": 4.266722,
+    "Latitude": 52.07498,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Goudenregenstraat",
+    "TimingPointCode": "32002003",
+    "StopAreaCode": "2003",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002004": {
+    "Longitude": 4.2675757,
+    "Latitude": 52.075253,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Goudenregenstraat",
+    "TimingPointCode": "32002004",
+    "StopAreaCode": "2003",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002005": {
+    "Longitude": 4.2711043,
+    "Latitude": 52.07649,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Fahrenheitstraat",
+    "TimingPointCode": "32002005",
+    "StopAreaCode": "2005",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002006": {
+    "Longitude": 4.2705665,
+    "Latitude": 52.076412,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Fahrenheitstraat",
+    "TimingPointCode": "32002006",
+    "StopAreaCode": "2005",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002010": {
+    "Longitude": 4.276149,
+    "Latitude": 52.07838,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Valkenbosplein",
+    "TimingPointCode": "32002010",
+    "StopAreaCode": "2010",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002011": {
+    "Longitude": 4.2765694,
+    "Latitude": 52.078484,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Valkenbosplein",
+    "TimingPointCode": "32002011",
+    "StopAreaCode": "2010",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002020": {
+    "Longitude": 4.2697334,
+    "Latitude": 52.07064,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Kamperfoeliestraat",
+    "TimingPointCode": "32002020",
+    "StopAreaCode": "2019",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002104": {
+    "Longitude": 4.2800727,
+    "Latitude": 52.07544,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Weimarstraat",
+    "TimingPointCode": "32002104",
+    "StopAreaCode": "2103",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002108": {
+    "Longitude": 4.2817554,
+    "Latitude": 52.07346,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Cartesiusstraat",
+    "TimingPointCode": "32002108",
+    "StopAreaCode": "2107",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002212": {
+    "Longitude": 4.292386,
+    "Latitude": 52.07837,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Elandstraat",
+    "TimingPointCode": "32002212",
+    "StopAreaCode": "2212",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002213": {
+    "Longitude": 4.292714,
+    "Latitude": 52.078087,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Elandstraat",
+    "TimingPointCode": "32002213",
+    "StopAreaCode": "2212",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002310": {
+    "Longitude": 4.31434,
+    "Latitude": 52.08696,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Dr. Kuyperstraat",
+    "TimingPointCode": "32002310",
+    "StopAreaCode": "2309",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002513": {
+    "Longitude": 4.353416,
+    "Latitude": 52.089493,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Reigersbergenweg",
+    "TimingPointCode": "32002513",
+    "StopAreaCode": "2513",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002514": {
+    "Longitude": 4.3529677,
+    "Latitude": 52.08931,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Reigersbergenweg",
+    "TimingPointCode": "32002514",
+    "StopAreaCode": "2513",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002604": {
+    "Longitude": 4.323322,
+    "Latitude": 52.080505,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Centraal Station",
+    "TimingPointCode": "32002604",
+    "StopAreaCode": "2601",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002605": {
+    "Longitude": 4.323761,
+    "Latitude": 52.081047,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Centraal Station",
+    "TimingPointCode": "32002605",
+    "StopAreaCode": "2605",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002608": {
+    "Longitude": 4.324706,
+    "Latitude": 52.08118,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Centraal Station",
+    "TimingPointCode": "32002608",
+    "StopAreaCode": "2605",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002609": {
+    "Longitude": 4.3248386,
+    "Latitude": 52.08051,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Centraal Station",
+    "TimingPointCode": "32002609",
+    "StopAreaCode": "2609",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002612": {
+    "Longitude": 4.3249426,
+    "Latitude": 52.08043,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Centraal Station",
+    "TimingPointCode": "32002612",
+    "StopAreaCode": "2609",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002614": {
+    "Longitude": 4.325032,
+    "Latitude": 52.080357,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Centraal Station",
+    "TimingPointCode": "32002614",
+    "StopAreaCode": "2609",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002632": {
+    "Longitude": 4.330854,
+    "Latitude": 52.083405,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Prins Clauslaan",
+    "TimingPointCode": "32002632",
+    "StopAreaCode": "2631",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002633": {
+    "Longitude": 4.333018,
+    "Latitude": 52.084457,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Koningin Marialaan",
+    "TimingPointCode": "32002633",
+    "StopAreaCode": "2633",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002637": {
+    "Longitude": 4.336777,
+    "Latitude": 52.08654,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Theresiastraat",
+    "TimingPointCode": "32002637",
+    "StopAreaCode": "2637",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002645": {
+    "Longitude": 4.3325505,
+    "Latitude": 52.082,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Ternoot",
+    "TimingPointCode": "32002645",
+    "StopAreaCode": "2645",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002650": {
+    "Longitude": 4.33934,
+    "Latitude": 52.084263,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Juliana van Stolberglaan",
+    "TimingPointCode": "32002650",
+    "StopAreaCode": "2649",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002655": {
+    "Longitude": 4.3423924,
+    "Latitude": 52.081646,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Stuyvesantstraat",
+    "TimingPointCode": "32002655",
+    "StopAreaCode": "2655",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002656": {
+    "Longitude": 4.3422422,
+    "Latitude": 52.081825,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Stuyvesantstraat",
+    "TimingPointCode": "32002656",
+    "StopAreaCode": "2655",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002662": {
+    "Longitude": 4.335142,
+    "Latitude": 52.07974,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Beatrixkwartier",
+    "TimingPointCode": "32002662",
+    "StopAreaCode": "2662",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002663": {
+    "Longitude": 4.334633,
+    "Latitude": 52.08031,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Beatrixkwartier",
+    "TimingPointCode": "32002663",
+    "StopAreaCode": "2662",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002682": {
+    "Longitude": 4.342761,
+    "Latitude": 52.07898,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Laan van NOI",
+    "TimingPointCode": "32002682",
+    "StopAreaCode": "2682",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002683": {
+    "Longitude": 4.342067,
+    "Latitude": 52.078712,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Laan van NOI",
+    "TimingPointCode": "32002683",
+    "StopAreaCode": "2682",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002707": {
+    "Longitude": 4.324473,
+    "Latitude": 52.073196,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Rijswijkseplein",
+    "TimingPointCode": "32002707",
+    "StopAreaCode": "2707",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002712": {
+    "Longitude": 4.328227,
+    "Latitude": 52.075436,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Weteringplein",
+    "TimingPointCode": "32002712",
+    "StopAreaCode": "2711",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002804": {
+    "Longitude": 4.309699,
+    "Latitude": 52.080353,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Kneuterdijk",
+    "TimingPointCode": "32002804",
+    "StopAreaCode": "2803",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002820": {
+    "Longitude": 4.299133,
+    "Latitude": 52.0733,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "MCH Westeinde",
+    "TimingPointCode": "32002820",
+    "StopAreaCode": "2820",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002822": {
+    "Longitude": 4.2996597,
+    "Latitude": 52.07263,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "MCH Westeinde",
+    "TimingPointCode": "32002822",
+    "StopAreaCode": "2820",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002823": {
+    "Longitude": 4.304676,
+    "Latitude": 52.0739,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Brouwersgracht",
+    "TimingPointCode": "32002823",
+    "StopAreaCode": "2823",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002824": {
+    "Longitude": 4.3036914,
+    "Latitude": 52.073593,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Brouwersgracht",
+    "TimingPointCode": "32002824",
+    "StopAreaCode": "2823",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002833": {
+    "Longitude": 4.313936,
+    "Latitude": 52.078255,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Centrum",
+    "TimingPointCode": "32002833",
+    "StopAreaCode": "2832",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002862": {
+    "Longitude": 4.316842,
+    "Latitude": 52.078156,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Kalvermarkt-Stadhuis",
+    "TimingPointCode": "32002862",
+    "StopAreaCode": "2862",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002874": {
+    "Longitude": 4.3089886,
+    "Latitude": 52.081364,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Kneuterdijk",
+    "TimingPointCode": "32002874",
+    "StopAreaCode": "2873",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002875": {
+    "Longitude": 4.303911,
+    "Latitude": 52.07356,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Brouwersgracht",
+    "TimingPointCode": "32002875",
+    "StopAreaCode": "2821",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002880": {
+    "Longitude": 4.314396,
+    "Latitude": 52.07733,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Spui",
+    "TimingPointCode": "32002880",
+    "StopAreaCode": "2880",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002881": {
+    "Longitude": 4.313947,
+    "Latitude": 52.077194,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Spui",
+    "TimingPointCode": "32002881",
+    "StopAreaCode": "2880",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002882": {
+    "Longitude": 4.309233,
+    "Latitude": 52.07547,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Grote Markt",
+    "TimingPointCode": "32002882",
+    "StopAreaCode": "2882",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002883": {
+    "Longitude": 4.3086095,
+    "Latitude": 52.07531,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Grote Markt",
+    "TimingPointCode": "32002883",
+    "StopAreaCode": "2882",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002903": {
+    "Longitude": 4.292387,
+    "Latitude": 52.072968,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Monstersestraat",
+    "TimingPointCode": "32002903",
+    "StopAreaCode": "2903",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002904": {
+    "Longitude": 4.29307,
+    "Latitude": 52.07309,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Monstersestraat",
+    "TimingPointCode": "32002904",
+    "StopAreaCode": "2903",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002909": {
+    "Longitude": 4.29991,
+    "Latitude": 52.069523,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Vaillantplein",
+    "TimingPointCode": "32002909",
+    "StopAreaCode": "2909",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002911": {
+    "Longitude": 4.297843,
+    "Latitude": 52.066967,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Hobbemaplein",
+    "TimingPointCode": "32002911",
+    "StopAreaCode": "2911",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32002913": {
+    "Longitude": 4.2966495,
+    "Latitude": 52.066868,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Hobbemaplein",
+    "TimingPointCode": "32002913",
+    "StopAreaCode": "2913",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002927": {
+    "Longitude": 4.3147984,
+    "Latitude": 52.066036,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Jacob Catsstraat",
+    "TimingPointCode": "32002927",
+    "StopAreaCode": "2925",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002928": {
+    "Longitude": 4.314713,
+    "Latitude": 52.065937,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Jacob Catsstraat",
+    "TimingPointCode": "32002928",
+    "StopAreaCode": "2925",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002935": {
+    "Longitude": 4.294145,
+    "Latitude": 52.06848,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Delftselaan",
+    "TimingPointCode": "32002935",
+    "StopAreaCode": "2908",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32003003": {
+    "Longitude": 4.285333,
+    "Latitude": 52.070942,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "De la Reyweg",
+    "TimingPointCode": "32003003",
+    "StopAreaCode": "3003",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003004": {
+    "Longitude": 4.28629,
+    "Latitude": 52.071175,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "De la Reyweg",
+    "TimingPointCode": "32003004",
+    "StopAreaCode": "3003",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003009": {
+    "Longitude": 4.2923684,
+    "Latitude": 52.064796,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Schalk Burgerstraat",
+    "TimingPointCode": "32003009",
+    "StopAreaCode": "3009",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003108": {
+    "Longitude": 4.28026,
+    "Latitude": 52.069653,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Fahrenheitstraat",
+    "TimingPointCode": "32003108",
+    "StopAreaCode": "3107",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003109": {
+    "Longitude": 4.2773194,
+    "Latitude": 52.06472,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Tienhovenselaan",
+    "TimingPointCode": "32003109",
+    "StopAreaCode": "3109",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003110": {
+    "Longitude": 4.2768846,
+    "Latitude": 52.064598,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Tienhovenselaan",
+    "TimingPointCode": "32003110",
+    "StopAreaCode": "3109",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003120": {
+    "Longitude": 4.2837887,
+    "Latitude": 52.06201,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Soestdijkseplein",
+    "TimingPointCode": "32003120",
+    "StopAreaCode": "3119",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003129": {
+    "Longitude": 4.2818646,
+    "Latitude": 52.066685,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Dierenselaan",
+    "TimingPointCode": "32003129",
+    "StopAreaCode": "3129",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003130": {
+    "Longitude": 4.282032,
+    "Latitude": 52.066994,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Dierenselaan",
+    "TimingPointCode": "32003130",
+    "StopAreaCode": "3129",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003213": {
+    "Longitude": 4.2702127,
+    "Latitude": 52.061962,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Monnickendamplein",
+    "TimingPointCode": "32003213",
+    "StopAreaCode": "3213",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003214": {
+    "Longitude": 4.2707744,
+    "Latitude": 52.062237,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Monnickendamplein",
+    "TimingPointCode": "32003214",
+    "StopAreaCode": "3213",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003215": {
+    "Longitude": 4.266498,
+    "Latitude": 52.056553,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Leyenburg",
+    "TimingPointCode": "32003215",
+    "StopAreaCode": "3215",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003216": {
+    "Longitude": 4.265901,
+    "Latitude": 52.057106,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Leyenburg",
+    "TimingPointCode": "32003216",
+    "StopAreaCode": "3215",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003305": {
+    "Longitude": 4.2498803,
+    "Latitude": 52.04258,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Beresteinlaan",
+    "TimingPointCode": "32003305",
+    "StopAreaCode": "3305",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003306": {
+    "Longitude": 4.2494197,
+    "Latitude": 52.04234,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Beresteinlaan",
+    "TimingPointCode": "32003306",
+    "StopAreaCode": "3305",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003309": {
+    "Longitude": 4.254987,
+    "Latitude": 52.045864,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Bouwlustlaan",
+    "TimingPointCode": "32003309",
+    "StopAreaCode": "3309",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003310": {
+    "Longitude": 4.2553897,
+    "Latitude": 52.046066,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Bouwlustlaan",
+    "TimingPointCode": "32003310",
+    "StopAreaCode": "3309",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003311": {
+    "Longitude": 4.258532,
+    "Latitude": 52.048054,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "De Rade",
+    "TimingPointCode": "32003311",
+    "StopAreaCode": "3311",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003312": {
+    "Longitude": 4.2581005,
+    "Latitude": 52.047836,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "De Rade",
+    "TimingPointCode": "32003312",
+    "StopAreaCode": "3311",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003314": {
+    "Longitude": 4.263818,
+    "Latitude": 52.04192,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "De Stede",
+    "TimingPointCode": "32003314",
+    "StopAreaCode": "3313",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32003322": {
+    "Longitude": 4.2635202,
+    "Latitude": 52.045063,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Hertenrade",
+    "TimingPointCode": "32003322",
+    "StopAreaCode": "3322",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003329": {
+    "Longitude": 4.2579303,
+    "Latitude": 52.034924,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "De Dreef",
+    "TimingPointCode": "32003329",
+    "StopAreaCode": "3327"
+  },
+  "32003333": {
+    "Longitude": 4.2663417,
+    "Latitude": 52.03951,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Revalidatiecentrum",
+    "TimingPointCode": "32003333",
+    "StopAreaCode": "3333",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32003339": {
+    "Longitude": 4.261222,
+    "Latitude": 52.03095,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Lozerlaan",
+    "TimingPointCode": "32003339",
+    "StopAreaCode": "3337",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003350": {
+    "Longitude": 4.2452946,
+    "Latitude": 52.03948,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "De Uithof",
+    "TimingPointCode": "32003350",
+    "StopAreaCode": "3350",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003361": {
+    "Longitude": 4.2514033,
+    "Latitude": 52.03827,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Randveen",
+    "TimingPointCode": "32003361",
+    "StopAreaCode": "3361",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003401": {
+    "Longitude": 4.262575,
+    "Latitude": 52.050186,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Dedemsvaartweg",
+    "TimingPointCode": "32003401",
+    "StopAreaCode": "3401",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003402": {
+    "Longitude": 4.262069,
+    "Latitude": 52.050022,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Dedemsvaartweg",
+    "TimingPointCode": "32003402",
+    "StopAreaCode": "3401",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003403": {
+    "Longitude": 4.266167,
+    "Latitude": 52.05287,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Zuidwoldepad",
+    "TimingPointCode": "32003403",
+    "StopAreaCode": "3404",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003404": {
+    "Longitude": 4.26601,
+    "Latitude": 52.052765,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Zuidwoldepad",
+    "TimingPointCode": "32003404",
+    "StopAreaCode": "3404",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003413": {
+    "Longitude": 4.2745047,
+    "Latitude": 52.05004,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Leyweg",
+    "TimingPointCode": "32003413",
+    "StopAreaCode": "3413",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003414": {
+    "Longitude": 4.2748375,
+    "Latitude": 52.05015,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Leyweg",
+    "TimingPointCode": "32003414",
+    "StopAreaCode": "3413",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003425": {
+    "Longitude": 4.283481,
+    "Latitude": 52.048462,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Loevesteinlaan",
+    "TimingPointCode": "32003425",
+    "StopAreaCode": "3424",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32003601": {
+    "Longitude": 4.28483,
+    "Latitude": 52.048134,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Loevesteinlaan",
+    "TimingPointCode": "32003601",
+    "StopAreaCode": "3601",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003621": {
+    "Longitude": 4.303395,
+    "Latitude": 52.052116,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Heeswijkplein",
+    "TimingPointCode": "32003621",
+    "StopAreaCode": "3620",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32003702": {
+    "Longitude": 4.306967,
+    "Latitude": 52.05937,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Dynamostraat",
+    "TimingPointCode": "32003702",
+    "StopAreaCode": "3701",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003802": {
+    "Longitude": 4.327982,
+    "Latitude": 52.067917,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Goudriaankade",
+    "TimingPointCode": "32003802",
+    "StopAreaCode": "3801",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32003804": {
+    "Longitude": 4.313481,
+    "Latitude": 52.0632,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Calandplein",
+    "TimingPointCode": "32003804",
+    "StopAreaCode": "3803",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003807": {
+    "Longitude": 4.318474,
+    "Latitude": 52.061146,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Neherkade",
+    "TimingPointCode": "32003807",
+    "StopAreaCode": "3807",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003810": {
+    "Longitude": 4.3253345,
+    "Latitude": 52.06269,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Oudemansstraat",
+    "TimingPointCode": "32003810",
+    "StopAreaCode": "3809",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32003815": {
+    "Longitude": 4.3330455,
+    "Latitude": 52.059765,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Broeksloot",
+    "TimingPointCode": "32003815",
+    "StopAreaCode": "3815",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32003818": {
+    "Longitude": 4.3154984,
+    "Latitude": 52.05629,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Van Zeggelenlaan",
+    "TimingPointCode": "32003818",
+    "StopAreaCode": "3817",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003824": {
+    "Longitude": 4.326982,
+    "Latitude": 52.06086,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Lorentzplein",
+    "TimingPointCode": "32003824",
+    "StopAreaCode": "3823",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32003842": {
+    "Longitude": 4.312081,
+    "Latitude": 52.055916,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Alberdingk Thijmstraat",
+    "TimingPointCode": "32003842",
+    "StopAreaCode": "3841",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32003846": {
+    "Longitude": 4.322815,
+    "Latitude": 52.0687,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Station Hollands Spoor",
+    "TimingPointCode": "32003846",
+    "StopAreaCode": "3846",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32004009": {
+    "Longitude": 4.2860746,
+    "Latitude": 52.03132,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Hoge Veld",
+    "TimingPointCode": "32004009",
+    "StopAreaCode": "4009",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32004014": {
+    "Longitude": 4.296217,
+    "Latitude": 52.019997,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Parijsplein",
+    "TimingPointCode": "32004014",
+    "StopAreaCode": "4013",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32005108": {
+    "Longitude": 4.34044,
+    "Latitude": 52.054104,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "Hoornbrug",
+    "TimingPointCode": "32005108",
+    "StopAreaCode": "5107",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32005305": {
+    "Longitude": 4.322272,
+    "Latitude": 52.043095,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "Huis te Landelaan",
+    "TimingPointCode": "32005305",
+    "StopAreaCode": "5305",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32005307": {
+    "Longitude": 4.326771,
+    "Latitude": 52.045784,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "Rijswijkse Schouwburg",
+    "TimingPointCode": "32005307",
+    "StopAreaCode": "5307",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32005422": {
+    "Longitude": 4.3227224,
+    "Latitude": 52.037624,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "Rijswijk Station",
+    "TimingPointCode": "32005422",
+    "StopAreaCode": "5421",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32005503": {
+    "Longitude": 4.300921,
+    "Latitude": 52.037495,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "De Schilp",
+    "TimingPointCode": "32005503",
+    "StopAreaCode": "5503",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32005504": {
+    "Longitude": 4.2997932,
+    "Latitude": 52.039516,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "De Schilp",
+    "TimingPointCode": "32005504",
+    "StopAreaCode": "5503",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32005520": {
+    "Longitude": 4.302969,
+    "Latitude": 52.034172,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "Prinses Marijkesingel",
+    "TimingPointCode": "32005520",
+    "StopAreaCode": "5519",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32005841": {
+    "Longitude": 4.337862,
+    "Latitude": 52.040924,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "Patentlaan",
+    "TimingPointCode": "32005841",
+    "StopAreaCode": "5841",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32005844": {
+    "Longitude": 4.3312707,
+    "Latitude": 52.037323,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "Volmerlaan",
+    "TimingPointCode": "32005844",
+    "StopAreaCode": "5843",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32005908": {
+    "Longitude": 4.346091,
+    "Latitude": 52.03368,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "Verffabriek",
+    "TimingPointCode": "32005908",
+    "StopAreaCode": "5907",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32005911": {
+    "Longitude": 4.3446493,
+    "Latitude": 52.041775,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "Vlietbrug",
+    "TimingPointCode": "32005911",
+    "StopAreaCode": "5911",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32007110": {
+    "Longitude": 4.358393,
+    "Latitude": 52.067234,
+    "TimingPointTown": "Voorburg",
+    "TimingPointName": "Voorburg Station",
+    "TimingPointCode": "32007110",
+    "StopAreaCode": "7110",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32007211": {
+    "Longitude": 4.3822274,
+    "Latitude": 52.0775,
+    "TimingPointTown": "Voorburg",
+    "TimingPointName": "Leidschendam-Voorburg",
+    "TimingPointCode": "32007211",
+    "StopAreaCode": "7211",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32007212": {
+    "Longitude": 4.3817115,
+    "Latitude": 52.07773,
+    "TimingPointTown": "Voorburg",
+    "TimingPointName": "Leidschendam-Voorburg",
+    "TimingPointCode": "32007212",
+    "StopAreaCode": "7211",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32007506": {
+    "Longitude": 4.354479,
+    "Latitude": 52.076954,
+    "TimingPointTown": "Voorburg",
+    "TimingPointName": "Mgr. van Steelaan",
+    "TimingPointCode": "32007506",
+    "StopAreaCode": "7505",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32007611": {
+    "Longitude": 4.365488,
+    "Latitude": 52.082253,
+    "TimingPointTown": "Voorburg",
+    "TimingPointName": "Voorburg 't Loo",
+    "TimingPointCode": "32007611",
+    "StopAreaCode": "7611",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32007612": {
+    "Longitude": 4.3649726,
+    "Latitude": 52.082474,
+    "TimingPointTown": "Voorburg",
+    "TimingPointName": "Voorburg 't Loo",
+    "TimingPointCode": "32007612",
+    "StopAreaCode": "7611",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32007703": {
+    "Longitude": 4.372415,
+    "Latitude": 52.086906,
+    "TimingPointTown": "Voorburg",
+    "TimingPointName": "Essesteijn",
+    "TimingPointCode": "32007703",
+    "StopAreaCode": "7703",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008101": {
+    "Longitude": 4.4712563,
+    "Latitude": 52.062637,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Voorweg Laag",
+    "TimingPointCode": "32008101",
+    "StopAreaCode": "8101",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008102": {
+    "Longitude": 4.470641,
+    "Latitude": 52.06278,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Voorweg Laag",
+    "TimingPointCode": "32008102",
+    "StopAreaCode": "8101",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008103": {
+    "Longitude": 4.483708,
+    "Latitude": 52.060596,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Centrum-West",
+    "TimingPointCode": "32008103",
+    "StopAreaCode": "8103",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008104": {
+    "Longitude": 4.482683,
+    "Latitude": 52.060795,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Centrum-West",
+    "TimingPointCode": "32008104",
+    "StopAreaCode": "8103",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008105": {
+    "Longitude": 4.49338,
+    "Latitude": 52.061134,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Stadhuis",
+    "TimingPointCode": "32008105",
+    "StopAreaCode": "8105",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008106": {
+    "Longitude": 4.4928856,
+    "Latitude": 52.06105,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Stadhuis",
+    "TimingPointCode": "32008106",
+    "StopAreaCode": "8105",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008107": {
+    "Longitude": 4.506956,
+    "Latitude": 52.059673,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Palenstein",
+    "TimingPointCode": "32008107",
+    "StopAreaCode": "8107",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008108": {
+    "Longitude": 4.5063868,
+    "Latitude": 52.059696,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Palenstein",
+    "TimingPointCode": "32008108",
+    "StopAreaCode": "8107",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008109": {
+    "Longitude": 4.515564,
+    "Latitude": 52.06319,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Seghwaert",
+    "TimingPointCode": "32008109",
+    "StopAreaCode": "8109",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008110": {
+    "Longitude": 4.5151305,
+    "Latitude": 52.06297,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Seghwaert",
+    "TimingPointCode": "32008110",
+    "StopAreaCode": "8109",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008111": {
+    "Longitude": 4.5096307,
+    "Latitude": 52.069035,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Leidsewallen",
+    "TimingPointCode": "32008111",
+    "StopAreaCode": "8111",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008112": {
+    "Longitude": 4.510172,
+    "Latitude": 52.06894,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Leidsewallen",
+    "TimingPointCode": "32008112",
+    "StopAreaCode": "8111",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008113": {
+    "Longitude": 4.494591,
+    "Latitude": 52.07205,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "De Leyens",
+    "TimingPointCode": "32008113",
+    "StopAreaCode": "8113",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008114": {
+    "Longitude": 4.495076,
+    "Latitude": 52.07188,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "De Leyens",
+    "TimingPointCode": "32008114",
+    "StopAreaCode": "8113",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008115": {
+    "Longitude": 4.4783635,
+    "Latitude": 52.0667,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Buytenwegh",
+    "TimingPointCode": "32008115",
+    "StopAreaCode": "8115",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008116": {
+    "Longitude": 4.478872,
+    "Latitude": 52.066795,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Buytenwegh",
+    "TimingPointCode": "32008116",
+    "StopAreaCode": "8115",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008117": {
+    "Longitude": 4.4710093,
+    "Latitude": 52.06261,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Voorweg Hoog",
+    "TimingPointCode": "32008117",
+    "StopAreaCode": "8117",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008118": {
+    "Longitude": 4.4712067,
+    "Latitude": 52.062923,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Voorweg Hoog",
+    "TimingPointCode": "32008118",
+    "StopAreaCode": "8117",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008119": {
+    "Longitude": 4.4698596,
+    "Latitude": 52.055374,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Meerzicht",
+    "TimingPointCode": "32008119",
+    "StopAreaCode": "8119",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008120": {
+    "Longitude": 4.470058,
+    "Latitude": 52.055653,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Meerzicht",
+    "TimingPointCode": "32008120",
+    "StopAreaCode": "8119",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008121": {
+    "Longitude": 4.477627,
+    "Latitude": 52.048412,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Driemanspolder",
+    "TimingPointCode": "32008121",
+    "StopAreaCode": "8121",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008122": {
+    "Longitude": 4.4771004,
+    "Latitude": 52.04848,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Driemanspolder",
+    "TimingPointCode": "32008122",
+    "StopAreaCode": "8121",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008123": {
+    "Longitude": 4.4873133,
+    "Latitude": 52.050995,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Delftsewallen",
+    "TimingPointCode": "32008123",
+    "StopAreaCode": "8123",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008124": {
+    "Longitude": 4.4869385,
+    "Latitude": 52.050777,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Delftsewallen",
+    "TimingPointCode": "32008124",
+    "StopAreaCode": "8123",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008125": {
+    "Longitude": 4.4921293,
+    "Latitude": 52.054386,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Dorp",
+    "TimingPointCode": "32008125",
+    "StopAreaCode": "8125",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008126": {
+    "Longitude": 4.4917116,
+    "Latitude": 52.05413,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Dorp",
+    "TimingPointCode": "32008126",
+    "StopAreaCode": "8125",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008127": {
+    "Longitude": 4.4830813,
+    "Latitude": 52.060562,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Centrum-West",
+    "TimingPointCode": "32008127",
+    "StopAreaCode": "8103",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008128": {
+    "Longitude": 4.5349526,
+    "Latitude": 52.065075,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Willem Dreeslaan",
+    "TimingPointCode": "32008128",
+    "StopAreaCode": "8128",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008129": {
+    "Longitude": 4.5341277,
+    "Latitude": 52.06551,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Willem Dreeslaan",
+    "TimingPointCode": "32008129",
+    "StopAreaCode": "8128",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008130": {
+    "Longitude": 4.5427203,
+    "Latitude": 52.05997,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Oosterheem",
+    "TimingPointCode": "32008130",
+    "StopAreaCode": "8130",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008131": {
+    "Longitude": 4.542591,
+    "Latitude": 52.060635,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Oosterheem",
+    "TimingPointCode": "32008131",
+    "StopAreaCode": "8130",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008132": {
+    "Longitude": 4.537852,
+    "Latitude": 52.05372,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Javalaan",
+    "TimingPointCode": "32008132",
+    "StopAreaCode": "8132",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32008134": {
+    "Longitude": 4.4830813,
+    "Latitude": 52.060562,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Centrum-West",
+    "TimingPointCode": "32008134",
+    "StopAreaCode": "8103",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32009111": {
+    "Longitude": 4.3434343,
+    "Latitude": 51.98445,
+    "TimingPointTown": "Delft",
+    "TimingPointName": "Sadatweg",
+    "TimingPointCode": "32009111",
+    "StopAreaCode": "9111",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32009113": {
+    "Longitude": 4.341909,
+    "Latitude": 51.980564,
+    "TimingPointTown": "Delft",
+    "TimingPointName": "Bikolaan",
+    "TimingPointCode": "32009113",
+    "StopAreaCode": "9113",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32009505": {
+    "Longitude": 4.3944736,
+    "Latitude": 52.097576,
+    "TimingPointTown": "Leidschendam",
+    "TimingPointName": "Kastelenring",
+    "TimingPointCode": "32009505",
+    "StopAreaCode": "9505",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32009509": {
+    "Longitude": 4.3822107,
+    "Latitude": 52.092518,
+    "TimingPointTown": "Leidschendam",
+    "TimingPointName": "MCH Antoniushove",
+    "TimingPointCode": "32009509",
+    "StopAreaCode": "9509",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32009582": {
+    "Longitude": 4.386963,
+    "Latitude": 52.079056,
+    "TimingPointTown": "Voorburg",
+    "TimingPointName": "Oosteinde",
+    "TimingPointCode": "32009582",
+    "StopAreaCode": "1528",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32009589": {
+    "Longitude": 4.400406,
+    "Latitude": 52.064854,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Leidschenveen Centrum",
+    "TimingPointCode": "32009589",
+    "StopAreaCode": "9589",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32009594": {
+    "Longitude": 4.3927665,
+    "Latitude": 52.07,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Forepark",
+    "TimingPointCode": "32009594",
+    "StopAreaCode": "9594",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32009595": {
+    "Longitude": 4.3923945,
+    "Latitude": 52.070312,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Forepark",
+    "TimingPointCode": "32009595",
+    "StopAreaCode": "9594",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32009596": {
+    "Longitude": 4.4001455,
+    "Latitude": 52.06476,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Leidschenveen",
+    "TimingPointCode": "32009596",
+    "StopAreaCode": "9596",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32009597": {
+    "Longitude": 4.399756,
+    "Latitude": 52.06523,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Leidschenveen",
+    "TimingPointCode": "32009597",
+    "StopAreaCode": "9596",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32009813": {
+    "Longitude": 4.382574,
+    "Latitude": 52.048424,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Gruttosingel",
+    "TimingPointCode": "32009813",
+    "StopAreaCode": "9812",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32009815": {
+    "Longitude": 4.3924775,
+    "Latitude": 52.045593,
+    "TimingPointTown": "Nootdorp",
+    "TimingPointName": "Nootdorp Centrum",
+    "TimingPointCode": "32009815",
+    "StopAreaCode": "9814",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32010304": {
+    "Longitude": 4.297466,
+    "Latitude": 52.101616,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Wagenaarweg",
+    "TimingPointCode": "32010304",
+    "StopAreaCode": "10303"
+  },
+  "32010729": {
+    "Longitude": 4.2908225,
+    "Latitude": 52.108234,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Nieuwe Duinweg",
+    "TimingPointCode": "32010729",
+    "StopAreaCode": "10728"
+  },
+  "42003901": {
+    "Longitude": 4.3538685,
+    "Latitude": 52.002304,
+    "TimingPointTown": "Delft",
+    "TimingPointName": "Krakeelpolderweg",
+    "TimingPointCode": "42003901",
+    "StopAreaCode": "DlfKra",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "42003902": {
+    "Longitude": 4.354143,
+    "Latitude": 52.002396,
+    "TimingPointTown": "Delft",
+    "TimingPointName": "Krakeelpolderweg",
+    "TimingPointCode": "42003902",
+    "StopAreaCode": "DlfKra",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  }
+}

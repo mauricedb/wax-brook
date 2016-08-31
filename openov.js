@@ -4,17 +4,11 @@ var sock = zmq.socket('sub');
 var zlib = require("zlib");
 var rx = require('rx');
 var Converter = require("csvtojson").Converter;
-const camelCase = require('camelcase');
+var camelCase = require('camelcase');
 var fetch = require('node-fetch');
+var timingPoints = require('./timingPoints.json');
 
 var data = {};
-
-var timingPoints = {}
-fs.access('timingPoints.json', fs.F_OK, err => {
-  if (!err) {
-    timingPoints = JSON.parse(fs.readFileSync('timingPoints.json'));
-  }
-})
 
 function timingPointName(code) {
   var tp = timingPoints[code];
@@ -25,7 +19,7 @@ function timingPointName(code) {
     .then(data => {
       timingPoints[code] = data[code].Stop;
 
-      fs.writeFile('timingPoints.json', JSON.stringify(timingPoints));
+      fs.writeFile('./timingPoints.json', JSON.stringify(timingPoints, null, '  '));
     })
 
     return code;
