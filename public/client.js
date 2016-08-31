@@ -29,5 +29,5 @@ $(function() {
   //   socket.emit('event', 'Maurice');
   // }, 5000);
 
-  socket.on('openov', data => console.log(data.toString()));
+  socket.on('openov', data => console.log(data));
 });
