@@ -1,14 +1,36 @@
+var fs = require('fs');
 var zmq = require('zmq');
 var sock = zmq.socket('sub');
 var zlib = require("zlib");
 var rx = require('rx');
 var Converter = require("csvtojson").Converter;
 const camelCase = require('camelcase');
+var fetch = require('node-fetch');
 
 var data = {};
 
-function timingPointName(tp) {
-    return tp;
+var timingPoints = {}
+fs.access('timingPoints.json', fs.F_OK, err => {
+  if (!err) {
+    timingPoints = JSON.parse(fs.readFileSync('timingPoints.json'));
+  }
+})
+
+function timingPointName(code) {
+  var tp = timingPoints[code];
+  if (!tp) {
+
+  fetch(`http://v0.ovapi.nl/tpc/${code}`)
+    .then(rsp => rsp.json())
+    .then(data => {
+      timingPoints[code] = data[code].Stop;
+
+      fs.writeFile('timingPoints.json', JSON.stringify(timingPoints));
+    })
+
+    return code;
+  }
+  return `${code} (${timingPoints[code].TimingPointName})`;
 }
 
 function decodeToArray(decoded, cb) {
