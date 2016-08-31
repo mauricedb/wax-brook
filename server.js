@@ -34,14 +34,15 @@ var dreams = [
   ];
 
 var openov = require('./openov');
-var subject = openov.start();
+var openov$ = openov.subscribe();
 
 
 
 var server = require('http').createServer(app);
 var io = require('socket.io')(server);
 io.on('connection', function(socket){
-  var subscription = subject.subscribe(data => socket.emit('openov', data));
+  var subscription = openov$
+    .subscribe(data => socket.emit('openov', data));
 
   socket.on('event', function(data){
     console.log('event data', data  )

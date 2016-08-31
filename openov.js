@@ -61,7 +61,7 @@ function decodeToArray(decoded, cb) {
 }
 
 module.exports = {
-    start: () => {
+    subscribe: () => {
         var subject = new rx.Subject();
 
         sock.connect('tcp://kv78turbo.openov.nl:7817');
@@ -89,9 +89,15 @@ module.exports = {
             .filter(row => (row.detectedRdY || row.tripStopStatus === 'ARRIVED')) // Only where we know the location
             .do(row => {
                 var key = `${row.localServiceLevelCode}_${row.linePlanningNumber}_${row.journeyNumber}_${row.fortifyOrderNumber}_${row.lineDirection}`
-                var journey = data[key] = data[key] || {};
-                journey[row.userStopOrderNumber] = 
-                `${row['\\LDataOwnerCode']} ${row.tripStopStatus} ${timingPointName(row.timingPointCode)} ${row.expectedArrivalTime} ${row.recordedArrivalTime || 'Not yet there'} ${row.detectedRdX || '?'} ${row.detectedRdY || '?'} ${row.distanceSinceDetectedUserStop}`;
+
+                if (row.journeyStopType === 'LAST') {
+                    // End of the line
+                    delete data[key];
+                } else {
+                    var journey = data[key] = data[key] || {};
+                    journey[row.userStopOrderNumber] = 
+                    `${row['\\LDataOwnerCode']} ${row.tripStopStatus} ${timingPointName(row.timingPointCode)} ${row.expectedArrivalTime} ${row.recordedArrivalTime || 'Not yet there'} ${row.detectedRdX || '?'} ${row.detectedRdY || '?'} ${row.distanceSinceDetectedUserStop}`;
+                }
 
                 console.log('\033[2J');
                 console.log(data);
