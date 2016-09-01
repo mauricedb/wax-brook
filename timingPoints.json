@@ -2111,6 +2111,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "32008133": {
+    "Longitude": 4.537492,
+    "Latitude": 52.05347,
+    "TimingPointTown": "Zoetermeer",
+    "TimingPointName": "Javalaan",
+    "TimingPointCode": "32008133",
+    "StopAreaCode": "8133",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "32008134": {
     "Longitude": 4.4830813,
     "Latitude": 52.060562,

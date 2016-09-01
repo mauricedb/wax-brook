@@ -10,18 +10,29 @@ var timingPoints = require('./timingPoints.json');
 
 var data = {};
 
-function timingPointName(code) {
+function getTimingPoint(code) {
   var tp = timingPoints[code];
   if (!tp) {
+    timingPoints[code] = {};
 
-  fetch(`http://v0.ovapi.nl/tpc/${code}`)
-    .then(rsp => rsp.json())
-    .then(data => {
-      timingPoints[code] = data[code].Stop;
+    fetch(`http://v0.ovapi.nl/tpc/${code}`)
+        .then(rsp => rsp.json())
+        .then(data => {
+            timingPoints[code] = data[code].Stop;
 
-      fs.writeFile('./timingPoints.json', JSON.stringify(timingPoints, null, '  '));
+            fs.writeFile('./timingPoints.json', JSON.stringify(timingPoints, null, '  '));
     })
 
+    return {};
+  }
+  return tp;
+
+}
+
+function timingPointName(code) {
+  var tp = getTimingPoint(code);
+
+  if (!tp.TimingPointCode) {
     return code;
   }
   return `${code} (${timingPoints[code].TimingPointName})`;
@@ -82,7 +93,17 @@ module.exports = {
             // .filter(row => row.lineDirection === 1) // Only a single direction
             .filter(row => (row.detectedRdY || row.tripStopStatus === 'ARRIVED')) // Only where we know the location
             .do(row => {
-                var key = `${row.localServiceLevelCode}_${row.linePlanningNumber}_${row.journeyNumber}_${row.fortifyOrderNumber}_${row.lineDirection}`
+                if (row.tripStopStatus === 'ARRIVED') {
+                    var tp = getTimingPoint(row.timingPointCode)
+                    if (tp.Latitude && tp.Longitude) {
+                        row.latitude = tp.Latitude;
+                        row.longitude = tp.Longitude;
+                    }
+                }
+            })
+            .do(row => {
+                // var key = `${row.localServiceLevelCode}_${row.linePlanningNumber}_${row.journeyNumber}_${row.fortifyOrderNumber}_${row.lineDirection}`
+                var key = row.vehicleNumber;
 
                 if (row.journeyStopType === 'LAST') {
                     // End of the line
