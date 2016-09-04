@@ -23,6 +23,14 @@
     "TimingPointCode": "10201",
     "StopAreaCode": "10201"
   },
+  "10204": {
+    "Longitude": 4.2854004,
+    "Latitude": 52.11441,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Kurhaus",
+    "TimingPointCode": "10204",
+    "StopAreaCode": "10201"
+  },
   "10708": {
     "Longitude": 4.2856755,
     "Latitude": 52.110947,
@@ -107,6 +115,14 @@
     "TimingPointTown": "Den Haag",
     "TimingPointName": "Zwarte Pad",
     "TimingPointCode": "32000215",
+    "StopAreaCode": "207"
+  },
+  "32000216": {
+    "Longitude": 4.2894554,
+    "Latitude": 52.11694,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Zwarte Pad",
+    "TimingPointCode": "32000216",
     "StopAreaCode": "207"
   },
   "32000217": {
