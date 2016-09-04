@@ -3753,6 +3753,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "32002642": {
+    "Longitude": 4.34439,
+    "Latitude": 52.089195,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "De Eerensplein",
+    "TimingPointCode": "32002642",
+    "StopAreaCode": "2641",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
   "32002645": {
     "Longitude": 4.3325505,
     "Latitude": 52.082,

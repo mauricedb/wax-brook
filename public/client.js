@@ -4,6 +4,11 @@
 // by default, you've got jQuery,
 // add other scripts at the bottom of index.html
 
+if (location.protocol === 'http:' && location.hostname !== 'localhost') {
+  // Redirect to HTTPS
+  location.href = location.href.replace("http://", "https://");
+}
+
 $(function() {
   var socket = io();
 
