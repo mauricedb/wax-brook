@@ -42,7 +42,8 @@ var server = require('http').createServer(app);
 var io = require('socket.io')(server);
 io.on('connection', function(socket){
   var subscription = openov$
-    .subscribe(data => socket.emit('openov', data));
+    .filter(row => row.latitude && row.longitude)
+    .subscribe(row => socket.emit('openov', row));
 
   socket.on('event', function(data){
     console.log('event data', data  )
