@@ -8,11 +8,11 @@ $(function() {
   var socket = io();
 
   var mymap = L.map('mapid')
-    .setView([52.06, 4.4], 13)
-    // .locate({
-    //   setView: true, 
-    //   maxZoom: 13
-    // })
+    // .setView([52.06, 4.4], 13)
+    .locate({
+      setView: true,
+      maxZoom: 15
+    })
     .on('zoomend', e => {
       const bounds = e.target.getBounds();
       console.log('zoomed to ',bounds.getNorthWest(), bounds.getSouthEast())

@@ -119,8 +119,8 @@ module.exports = {
                     `${row['\\LDataOwnerCode']} ${row.tripStopStatus} ${timingPointName(row.timingPointCode)} ${row.expectedArrivalTime} ${row.recordedArrivalTime || 'Not yet there'} ${row.detectedRdX || '?'} ${row.detectedRdY || '?'} ${row.distanceSinceDetectedUserStop}`;
                 }
 
-                console.log('\033[2J');
-                console.log(data);
+                // console.log('\033[2J');
+                // console.log(data);
             });
     }
 };

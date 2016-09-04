@@ -3503,6 +3503,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "32002533": {
+    "Longitude": 4.3670497,
+    "Latitude": 52.090553,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Aegonplein",
+    "TimingPointCode": "32002533",
+    "StopAreaCode": "2532",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "32002601": {
     "Longitude": 4.323004,
     "Latitude": 52.080986,
