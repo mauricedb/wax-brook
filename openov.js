@@ -90,7 +90,7 @@ module.exports = {
             )
             .flatMap(data => data)
             .filter(row => !!row.journeyNumber)
-            .filter(row => row.linePlanningNumber === 3 || row.linePlanningNumber === 4) // Only Randstad Rail
+            // .filter(row => row.linePlanningNumber === 3 || row.linePlanningNumber === 4) // Only Randstad Rail
             // .filter(row => row.lineDirection === 1) // Only a single direction
             .filter(row => (row.detectedRdY || row.tripStopStatus === 'ARRIVED')) // Only where we know the location
             .do(row => {
