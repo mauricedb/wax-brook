@@ -7,6 +7,7 @@ var Converter = require("csvtojson").Converter;
 var camelCase = require('camelcase');
 var fetch = require('node-fetch');
 var timingPoints = require('./timingPoints.json');
+var rd2gps = require('./rd2gps');
 
 var data = {};
 
@@ -99,6 +100,10 @@ module.exports = {
                         row.latitude = tp.Latitude;
                         row.longitude = tp.Longitude;
                     }
+                } else if (row.detectedRdX && row.detectedRdY) {
+                    var pos = rd2gps.fromRdToWgs([row.detectedRdX, row.detectedRdY])
+                    row.latitude = pos[0];
+                    row.longitude = pos[1];
                 }
             })
             .do(row => {

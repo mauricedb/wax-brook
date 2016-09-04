@@ -35,7 +35,7 @@ $(function() {
 
   var markers = {};
   socket.on('openov', row => {
-    // console.log(row);
+    console.log(row);
 
     if (row.latitude && row.longitude) {
       // var key = `${row.localServiceLevelCode}_${row.linePlanningNumber}_${row.journeyNumber}_${row.fortifyOrderNumber}_${row.lineDirection}`
