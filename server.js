@@ -41,12 +41,24 @@ var openov$ = openov.subscribe();
 var server = require('http').createServer(app);
 var io = require('socket.io')(server);
 io.on('connection', function(socket){
+  var viewport = { 
+    northWest: { lat: 0, lng: 0 },
+    southEast: { lat: 0, lng: 0 } 
+  };
+
   var subscription = openov$
     .filter(row => row.latitude && row.longitude)
+    .filter(row => row.latitude >= viewport.southEast.lat && row.latitude <= viewport.northWest.lat)
+    .filter(row => row.longitude >= viewport.northWest.lng && row.longitude <= viewport.southEast.lng)
     .subscribe(row => socket.emit('openov', row));
 
   socket.on('event', function(data){
     console.log('event data', data  )
+  });
+
+  socket.on('viewport-changed', function(data) {
+    console.log('viewport-changed to', data);
+    viewport = data;
   });
 
   socket.on('disconnect', function(){

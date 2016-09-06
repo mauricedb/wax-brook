@@ -11,6 +11,14 @@ if (location.protocol === 'http:' && location.hostname !== 'localhost') {
 
 $(function() {
   var socket = io();
+  var markers = {};
+
+  function sendViewPort(bounds) {
+    socket.emit('viewport-changed', {
+      northWest: bounds.getNorthWest(),
+      southEast: bounds.getSouthEast()
+    });
+  }
 
   var mymap = L.map('mapid')
     // .setView([52.06, 4.4], 13)
@@ -21,14 +29,17 @@ $(function() {
     .on('zoomend', e => {
       const bounds = e.target.getBounds();
       console.log('zoomed to ',bounds.getNorthWest(), bounds.getSouthEast())
+      sendViewPort(bounds);
     })
     .on('dragend', e => {
       const bounds = e.target.getBounds();
       console.log('dragged to ',bounds.getNorthWest(), bounds.getSouthEast())
+      sendViewPort(bounds);
     })
     .on('resize', e => {
       const bounds = e.target.getBounds();
       console.log('resize to ',bounds.getNorthWest(), bounds.getSouthEast())
+      sendViewPort(bounds);
     })
   
   L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
@@ -38,7 +49,6 @@ $(function() {
       accessToken: 'pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw'
   }).addTo(mymap);
 
-  var markers = {};
   socket.on('openov', row => {
     console.log(row);
 
@@ -58,7 +68,6 @@ $(function() {
           title: row.linePlanningNumber
         }).addTo(mymap);
       }
-      
     }
   });
 });
