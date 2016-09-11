@@ -14,10 +14,19 @@ $(function() {
   var markers = {};
 
   function sendViewPort(bounds) {
+
+    var oldMarkers = markers;
+    markers = {};
+    
     socket.emit('viewport-changed', {
       northWest: bounds.getNorthWest(),
       southEast: bounds.getSouthEast()
     });
+
+    for (key in oldMarkers) {
+      var marker = oldMarkers[key];
+      marker.removeFrom(mymap);
+    }
   }
 
   var mymap = L.map('mapid')
