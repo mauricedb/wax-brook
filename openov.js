@@ -90,15 +90,17 @@ function monitorSocket(socket) {
 
 }
 
+
 monitorSocket(sock);
+
+sock.connect('tcp://kv78turbo.openov.nl:7817');
+
+sock.subscribe('/GOVI/KV8passtimes/SGH');
 
 module.exports = {
     subscribe: () => {
         var subject = new rx.Subject();
 
-        sock.connect('tcp://kv78turbo.openov.nl:7817');
-
-        sock.subscribe('/GOVI/KV8passtimes/SGH');
         // sock.subscribe('/GOVI/KV8passtimes');
 
         sock.on('message', function(msg, buffer) {
@@ -120,6 +122,11 @@ module.exports = {
             // .filter(row => row.lineDirection === 1) // Only a single direction
             .filter(row => (row.detectedRdY || row.tripStopStatus === 'ARRIVED')) // Only where we know the location
             .do(row => {
+                // var key = `${row.localServiceLevelCode}_${row.linePlanningNumber}_${row.journeyNumber}_${row.fortifyOrderNumber}_${row.lineDirection}`
+                var key = row.vehicleNumber;
+                row.key = key;
+            })
+            .do(row => {
                 if (row.tripStopStatus === 'ARRIVED') {
                     var tp = getTimingPoint(row.timingPointCode)
                     if (tp.Latitude && tp.Longitude) {
@@ -133,9 +140,8 @@ module.exports = {
                 }
             })
             .do(row => {
-                // var key = `${row.localServiceLevelCode}_${row.linePlanningNumber}_${row.journeyNumber}_${row.fortifyOrderNumber}_${row.lineDirection}`
-                var key = row.vehicleNumber;
-
+                var key = row.key;
+                
                 if (row.journeyStopType === 'LAST') {
                     // End of the line
                     delete data[key];

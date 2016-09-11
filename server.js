@@ -33,13 +33,21 @@ var dreams = [
   "Wash the dishes"
   ];
 
+var rows = {};
 var openov = require('./openov');
-var openov$ = openov.subscribe();
-
-
+var openov$ = openov.subscribe()
+  .filter(row => row.latitude && row.longitude)
+  .do(row => {
+    if (row.journeyStopType === 'LAST') {
+      delete rows[row.key];
+    } else {
+      rows[row.key] = row;
+    }
+  });
 
 var server = require('http').createServer(app);
 var io = require('socket.io')(server);
+
 io.on('connection', function(socket){
   var viewport = { 
     northWest: { lat: 0, lng: 0 },
@@ -47,7 +55,6 @@ io.on('connection', function(socket){
   };
 
   var subscription = openov$
-    .filter(row => row.latitude && row.longitude)
     .filter(row => row.latitude >= viewport.southEast.lat && row.latitude <= viewport.northWest.lat)
     .filter(row => row.longitude >= viewport.northWest.lng && row.longitude <= viewport.southEast.lng)
     .subscribe(row => socket.emit('openov', row));
@@ -59,6 +66,15 @@ io.on('connection', function(socket){
   socket.on('viewport-changed', function(data) {
     console.log('viewport-changed to', data);
     viewport = data;
+
+    for (var key in rows) {
+      var row = rows[key];
+
+      if (row.latitude >= viewport.southEast.lat && row.latitude <= viewport.northWest.lat &&
+      row.longitude >= viewport.northWest.lng && row.longitude <= viewport.southEast.lng) {
+        socket.emit('openov', row)
+      }
+    }
   });
 
   socket.on('disconnect', function(){
