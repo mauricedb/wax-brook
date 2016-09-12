@@ -6282,6 +6282,14 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "32003805": {
+    "Longitude": 4.326433,
+    "Latitude": 52.065575,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Laakkade",
+    "TimingPointCode": "32003805",
+    "StopAreaCode": "3805"
+  },
   "32003807": {
     "Longitude": 4.318474,
     "Latitude": 52.061146,

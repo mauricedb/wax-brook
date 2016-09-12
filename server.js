@@ -83,6 +83,10 @@ io.on('connection', function(socket){
   });
 });
 
+app.get("/rows", function (request, response) {
+  response.json(rows);
+});
+
 
 // listen for requests :)
 var listener = server.listen(process.env.PORT || 3000, function () {
