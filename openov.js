@@ -10,6 +10,7 @@ var timingPoints = require('./timingPoints.json');
 var rd2gps = require('./rd2gps');
 
 var data = {};
+var vehicles = {};
 
 function getTimingPoint(code) {
   var tp = timingPoints[code];
@@ -50,6 +51,9 @@ function decodeToArray(decoded, cb) {
         result.shift()
         var fields = result.shift();
 
+        if (fields.field1.startsWith('\\L')) {
+            fields.field1 = fields.field1.substr(2);
+        }
         var keys = Object.keys(fields);
 
         result.forEach(r => {
@@ -120,39 +124,65 @@ module.exports = {
             .filter(row => !!row.journeyNumber)
             // .filter(row => row.linePlanningNumber === 3 || row.linePlanningNumber === 4) // Only Randstad Rail
             // .filter(row => row.lineDirection === 1) // Only a single direction
-            .filter(row => (row.detectedRdY || row.tripStopStatus === 'ARRIVED')) // Only where we know the location
+            // .filter(row => row.vehicleNumber === 4037) // Only a single tram
             .do(row => {
                 // var key = `${row.localServiceLevelCode}_${row.linePlanningNumber}_${row.journeyNumber}_${row.fortifyOrderNumber}_${row.lineDirection}`
-                var key = row.vehicleNumber;
-                row.key = key;
+                row.key = row.dataOwnerCode + '_' + row.vehicleNumber;
             })
             .do(row => {
-                if (row.tripStopStatus === 'ARRIVED') {
+                if (row.detectedRdX && row.detectedRdY) {
+                    var pos = rd2gps.fromRdToWgs([row.detectedRdX, row.detectedRdY])
+                    row.latitude = pos[0];
+                    row.longitude = pos[1];
+                } else {
                     var tp = getTimingPoint(row.timingPointCode)
                     if (tp.Latitude && tp.Longitude) {
                         row.latitude = tp.Latitude;
                         row.longitude = tp.Longitude;
                     }
-                } else if (row.detectedRdX && row.detectedRdY) {
-                    var pos = rd2gps.fromRdToWgs([row.detectedRdX, row.detectedRdY])
-                    row.latitude = pos[0];
-                    row.longitude = pos[1];
+                }
+            })
+            
+            .do(row => {
+                var journey, key = row.key;
+                if (row.tripStopStatus === 'ARRIVED' && row.journeyStopType === 'LAST') {
+                    // End of the line
+                    delete vehicles[key];
+                } else {
+                    var journey = vehicles[key] = vehicles[key] || {};
+                    journey[row.userStopOrderNumber] = row;
                 }
             })
             .do(row => {
-                var key = row.key;
-                
-                if (row.journeyStopType === 'LAST') {
+                var journey, key = row.key;
+                var now = new Date().toLocaleTimeString();
+
+                if (row.tripStopStatus === 'ARRIVED' && row.journeyStopType === 'LAST') {
                     // End of the line
                     delete data[key];
                 } else {
                     var journey = data[key] = data[key] || {};
                     journey[row.userStopOrderNumber] = 
-                    `${row['\\LDataOwnerCode']} ${row.tripStopStatus} ${timingPointName(row.timingPointCode)} ${row.expectedArrivalTime} ${row.recordedArrivalTime || 'Not yet there'} ${row.detectedRdX || '?'} ${row.detectedRdY || '?'} ${row.distanceSinceDetectedUserStop}`;
+                    `${now} ${row.dataOwnerCode} ${row.tripStopStatus} ${timingPointName(row.timingPointCode)} ${row.expectedArrivalTime} ${row.recordedArrivalTime || 'Not yet there'} ${row.latitude || '?'} ${row.longitude || '?'} ${row.distanceSinceDetectedUserStop}`;
                 }
 
                 // console.log('\033[2J');
+                // console.log('---------------------------------------');
                 // console.log(data);
-            });
+            })
+            .do(row => {
+                if (row.tripStopStatus === 'ARRIVED') {
+                    row.label = `${row.dataOwnerCode} ${row.linePlanningNumber} (${row.vehicleNumber}) arrived at ${timingPointName(row.timingPointCode)}`;
+                } else if (row.tripStopStatus === 'PASSED') {
+                    var nextRow = vehicles[row.key][row.userStopOrderNumber + 1];
+
+                    if (nextRow && nextRow.tripStopStatus === 'DRIVING') {
+                        row.label = `${row.dataOwnerCode} ${row.linePlanningNumber} (${row.vehicleNumber}) driving from ${timingPointName(row.timingPointCode)} to ${timingPointName(nextRow.timingPointCode)}`;
+                    }
+                }
+
+            })
+            .filter(row => (row.detectedRdX || row.tripStopStatus === 'ARRIVED')) // Only where we know the location
+            ;
     }
 };

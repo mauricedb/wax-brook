@@ -6460,6 +6460,66 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "32003829": {
+    "Longitude": 4.313063,
+    "Latitude": 52.052032,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Alberdingk Thijmstraat",
+    "TimingPointCode": "32003829",
+    "StopAreaCode": "3829",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003830": {
+    "Longitude": 4.3131046,
+    "Latitude": 52.05213,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Alberdingk Thijmstraat",
+    "TimingPointCode": "32003830",
+    "StopAreaCode": "3829",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003831": {
+    "Longitude": 4.316936,
+    "Latitude": 52.052868,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Ledeganckplein",
+    "TimingPointCode": "32003831",
+    "StopAreaCode": "3831",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003832": {
+    "Longitude": 4.317036,
+    "Latitude": 52.05296,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Ledeganckplein",
+    "TimingPointCode": "32003832",
+    "StopAreaCode": "3831",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003833": {
+    "Longitude": 4.3235025,
+    "Latitude": 52.055714,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Jan van Beersstraat",
+    "TimingPointCode": "32003833",
+    "StopAreaCode": "3833",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32003834": {
+    "Longitude": 4.3237934,
+    "Latitude": 52.055744,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Jan van Beersstraat",
+    "TimingPointCode": "32003834",
+    "StopAreaCode": "3833",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
   "32003837": {
     "Longitude": 4.334626,
     "Latitude": 52.06014,
@@ -6939,6 +6999,46 @@
     "StopAreaCode": "5217",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "32005301": {
+    "Longitude": 4.3172245,
+    "Latitude": 52.04568,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "Van Vredenburchweg",
+    "TimingPointCode": "32005301",
+    "StopAreaCode": "5301",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32005302": {
+    "Longitude": 4.3171754,
+    "Latitude": 52.045906,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "Van Vredenburchweg",
+    "TimingPointCode": "32005302",
+    "StopAreaCode": "5301",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32005303": {
+    "Longitude": 4.319959,
+    "Latitude": 52.042885,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "Generaal Spoorlaan",
+    "TimingPointCode": "32005303",
+    "StopAreaCode": "5303",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32005304": {
+    "Longitude": 4.320367,
+    "Latitude": 52.042896,
+    "TimingPointTown": "Rijswijk",
+    "TimingPointName": "Generaal Spoorlaan",
+    "TimingPointCode": "32005304",
+    "StopAreaCode": "5303",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
   },
   "32005305": {
     "Longitude": 4.322272,
