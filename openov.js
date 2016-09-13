@@ -1,6 +1,5 @@
 var fs = require('fs');
 var zmq = require('zmq');
-var sock = zmq.socket('sub');
 var zlib = require("zlib");
 var rx = require('rx');
 var Converter = require("csvtojson").Converter;
@@ -95,8 +94,8 @@ function monitorSocket(socket) {
 }
 
 
+var sock = zmq.socket('sub');
 monitorSocket(sock);
-
 sock.connect('tcp://kv78turbo.openov.nl:7817');
 
 sock.subscribe('/GOVI/KV8passtimes/SGH');           // HTM
