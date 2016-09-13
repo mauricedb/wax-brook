@@ -99,13 +99,14 @@ monitorSocket(sock);
 
 sock.connect('tcp://kv78turbo.openov.nl:7817');
 
-sock.subscribe('/GOVI/KV8passtimes/SGH');
+sock.subscribe('/GOVI/KV8passtimes/SGH');           // HTM
+sock.subscribe('/GOVI/KV8passtimes/Haaglanden');    // Veolia
+sock.subscribe('/GOVI/KV8passtimes/ProvZH');        // Arriva
+
 
 module.exports = {
     subscribe: () => {
         var subject = new rx.Subject();
-
-        // sock.subscribe('/GOVI/KV8passtimes');
 
         sock.on('message', function(msg, buffer) {
             zlib.gunzip(buffer,  function(err, decoded) {
