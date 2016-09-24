@@ -46,7 +46,9 @@ function decodeToArray(decoded, cb) {
     });
 
     converter.fromString(decoded.toString(), (err, result) => {
-        result.shift()
+        var temp = result.shift();
+        console.log(temp.field8, temp.field3, 'rceived');
+
         result.shift()
         var fields = result.shift();
 
@@ -54,7 +56,7 @@ function decodeToArray(decoded, cb) {
             fields.field1 = fields.field1.substr(2);
         }
         var keys = Object.keys(fields);
-
+        
         result.forEach(r => {
             var row = {};
             keys.forEach(k => {
@@ -99,8 +101,8 @@ monitorSocket(sock);
 sock.connect('tcp://kv78turbo.openov.nl:7817');
 
 sock.subscribe('/GOVI/KV8passtimes/SGH');           // HTM
-sock.subscribe('/GOVI/KV8passtimes/Haaglanden');    // Veolia
-sock.subscribe('/GOVI/KV8passtimes/ProvZH');        // Arriva
+// sock.subscribe('/GOVI/KV8passtimes/Haaglanden');    // Veolia
+// sock.subscribe('/GOVI/KV8passtimes/ProvZH');        // Arriva
 
 
 module.exports = {

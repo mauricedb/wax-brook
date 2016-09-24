@@ -615,6 +615,14 @@
     "TimingPointCode": "32000435",
     "StopAreaCode": "434"
   },
+  "32000436": {
+    "Longitude": 4.3175354,
+    "Latitude": 52.088802,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Weissenbruchstraat",
+    "TimingPointCode": "32000436",
+    "StopAreaCode": "436"
+  },
   "32000437": {
     "Longitude": 4.3195853,
     "Latitude": 52.089737,
@@ -3381,6 +3389,14 @@
     "StopAreaCode": "2309",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "32002401": {
+    "Longitude": 4.3165345,
+    "Latitude": 52.0849,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Malieveld",
+    "TimingPointCode": "32002401",
+    "StopAreaCode": "2401"
   },
   "32002403": {
     "Longitude": 4.3167977,
@@ -45218,6 +45234,26 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "54720050": {
+    "Longitude": 4.651496,
+    "Latitude": 52.12602,
+    "TimingPointTown": "Alphen a/d Rijn",
+    "TimingPointName": "Alphen a/d Rijn, Europaplein",
+    "TimingPointCode": "54720050",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "54720060": {
+    "Longitude": 4.6341453,
+    "Latitude": 52.13649,
+    "TimingPointTown": "Alphen a/d Rijn",
+    "TimingPointName": "Alphen a/d Rijn, Genielaan",
+    "TimingPointCode": "54720060",
+    "StopAreaCode": "ApRGen",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "54720070": {
     "Longitude": 4.6668916,
     "Latitude": 52.129406,
@@ -45255,6 +45291,26 @@
     "TimingPointName": "Alphen a/d Rijn, Magazijnweg",
     "TimingPointCode": "54720100",
     "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "54720120": {
+    "Longitude": 4.646881,
+    "Latitude": 52.13836,
+    "TimingPointTown": "Alphen a/d Rijn",
+    "TimingPointName": "Alphen a/d Rijn, Zwembad De Hoorn",
+    "TimingPointCode": "54720120",
+    "StopAreaCode": "ApRZwe",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "54720130": {
+    "Longitude": 4.6306396,
+    "Latitude": 52.13047,
+    "TimingPointTown": "Alphen a/d Rijn",
+    "TimingPointName": "Alphen a/d Rijn, Distributieweg/SWA",
+    "TimingPointCode": "54720130",
+    "StopAreaCode": "ApRDis",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
@@ -45388,6 +45444,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "54720280": {
+    "Longitude": 4.6300683,
+    "Latitude": 52.124535,
+    "TimingPointTown": "Alphen a/d Rijn",
+    "TimingPointName": "Alphen a/d Rijn, Flemingweg",
+    "TimingPointCode": "54720280",
+    "StopAreaCode": "ApRFle",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "54720290": {
     "Longitude": 4.629229,
     "Latitude": 52.124073,
@@ -45397,6 +45463,16 @@
     "StopAreaCode": "apnfmw",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "54720300": {
+    "Longitude": 4.639465,
+    "Latitude": 52.138958,
+    "TimingPointTown": "Alphen a/d Rijn",
+    "TimingPointName": "Alphen a/d Rijn, Ondernemingsweg",
+    "TimingPointCode": "54720300",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
   },
   "54720310": {
     "Longitude": 4.6292467,
@@ -45996,6 +46072,26 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "54721460": {
+    "Longitude": 4.634649,
+    "Latitude": 52.126553,
+    "TimingPointTown": "Alphen a/d Rijn",
+    "TimingPointName": "Alphen a/d Rijn, Boerhaaveweg",
+    "TimingPointCode": "54721460",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "54721470": {
+    "Longitude": 4.638429,
+    "Latitude": 52.127556,
+    "TimingPointTown": "Alphen a/d Rijn",
+    "TimingPointName": "Alphen a/d Rijn, Albert Einsteinweg",
+    "TimingPointCode": "54721470",
+    "StopAreaCode": "ApRAlb",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "54721500": {
     "Longitude": 4.6599655,
     "Latitude": 52.14848,
@@ -46526,6 +46622,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "54724073": {
+    "Longitude": 4.657991,
+    "Latitude": 52.12445,
+    "TimingPointTown": "Alphen a/d Rijn",
+    "TimingPointName": "Alphen a/d Rijn, Station",
+    "TimingPointCode": "54724073",
+    "StopAreaCode": "ApRSta",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
   "54724074": {
     "Longitude": 4.657918,
     "Latitude": 52.124424,
@@ -46760,7 +46866,9 @@
   "54729790": {},
   "54729800": {},
   "54729810": {},
+  "54729820": {},
   "54729830": {},
+  "54729840": {},
   "54729860": {},
   "54729870": {},
   "54729880": {},
