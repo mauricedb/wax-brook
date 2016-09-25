@@ -48,7 +48,9 @@ var openov$ = openov.subscribe()
 var server = require('http').createServer(app);
 var io = require('socket.io')(server);
 
-io.on('connection', function(socket){
+io.on('connection', function(socket) {
+  console.log('Browser connected', socket.client.id);
+
   var viewport = { 
     northWest: { lat: 0, lng: 0 },
     southEast: { lat: 0, lng: 0 } 
@@ -64,7 +66,7 @@ io.on('connection', function(socket){
   });
 
   socket.on('viewport-changed', function(data) {
-    console.log('viewport-changed to', data);
+    console.log('Browser viewport-changed to', data, socket.client.id);
     viewport = data;
 
     for (var key in rows) {
@@ -79,7 +81,7 @@ io.on('connection', function(socket){
 
   socket.on('disconnect', function(){
     subscription.dispose();
-    console.log('disconnect')
+    console.log('Browser disconnected', socket.client.id)
   });
 });
 
