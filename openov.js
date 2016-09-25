@@ -91,7 +91,7 @@ function monitorSocket(socket) {
     
     // Call monitor, check for events every 500ms and get all available events. 
     console.log('Start monitoring...');
-    socket.monitor(500, 0);
+    socket.monitor(1000, 0);
 
 }
 
@@ -112,6 +112,9 @@ module.exports = {
         sock.connect('tcp://kv78turbo.openov.nl:7817');
 
         sock.subscribe('/GOVI/KV8passtimes/SGH');           // HTM
+
+        // Attach the socket to the main event loop. Calling this on already attached sockets is a no-op.
+        sock.ref();
 
         sock.on('message', function(msg, buffer) {
             zlib.gunzip(buffer,  function(err, decoded) {
