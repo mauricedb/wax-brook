@@ -98,9 +98,9 @@ function monitorSocket(socket) {
 
 var sock = zmq.socket('sub');
 monitorSocket(sock);
-// sock.connect('tcp://kv78turbo.openov.nl:7817');
+sock.connect('tcp://kv78turbo.openov.nl:7817');
 
-// sock.subscribe('/GOVI/KV8passtimes/SGH');           // HTM
+sock.subscribe('/GOVI/KV8passtimes/SGH');           // HTM
 // sock.subscribe('/GOVI/KV8passtimes/Haaglanden');    // Veolia
 // sock.subscribe('/GOVI/KV8passtimes/ProvZH');        // Arriva
 
@@ -109,9 +109,9 @@ module.exports = {
     subscribe: () => {
         var subject = new rx.Subject();
 
-        sock.connect('tcp://kv78turbo.openov.nl:7817');
+        // sock.connect('tcp://kv78turbo.openov.nl:7817');
 
-        sock.subscribe('/GOVI/KV8passtimes/SGH');           // HTM
+        // sock.subscribe('/GOVI/KV8passtimes/SGH');           // HTM
 
         // Attach the socket to the main event loop. Calling this on already attached sockets is a no-op.
         sock.ref();
