@@ -13624,6 +13624,26 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "42040501": {
+    "Longitude": 4.2145224,
+    "Latitude": 51.998913,
+    "TimingPointTown": "Naaldwijk",
+    "TimingPointName": "Naaldwijk, Industriestraat",
+    "TimingPointCode": "42040501",
+    "StopAreaCode": "NwkInd",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "42040502": {
+    "Longitude": 4.214498,
+    "Latitude": 51.99874,
+    "TimingPointTown": "Naaldwijk",
+    "TimingPointName": "Naaldwijk, Industriestraat",
+    "TimingPointCode": "42040502",
+    "StopAreaCode": "NwkInd",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
   "42040601": {
     "Longitude": 4.202893,
     "Latitude": 51.992073,
@@ -15338,6 +15358,16 @@
     "TimingPointTown": "Wateringen",
     "TimingPointName": "Wateringen, De Ark",
     "TimingPointCode": "42058201",
+    "StopAreaCode": "WtnArk",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "42058202": {
+    "Longitude": 4.2814684,
+    "Latitude": 52.025467,
+    "TimingPointTown": "Wateringen",
+    "TimingPointName": "Wateringen, De Ark",
+    "TimingPointCode": "42058202",
     "StopAreaCode": "WtnArk",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
@@ -18077,6 +18107,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "51440090": {
+    "Longitude": 5.040706,
+    "Latitude": 51.96368,
+    "TimingPointTown": "Lexmond",
+    "TimingPointName": "Lexmond, Medisch Centrum",
+    "TimingPointCode": "51440090",
+    "StopAreaCode": "LmdMC",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51440091": {
     "Longitude": 5.040706,
     "Latitude": 51.96368,
@@ -18677,6 +18717,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51540240": {
+    "Longitude": 4.966206,
+    "Latitude": 51.954613,
+    "TimingPointTown": "Ameide",
+    "TimingPointName": "Ameide, Open Vensters",
+    "TimingPointCode": "51540240",
+    "StopAreaCode": "AmdOv",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51540250": {
     "Longitude": 4.966251,
     "Latitude": 51.95452,
@@ -18684,6 +18734,16 @@
     "TimingPointName": "Ameide, Open Vensters",
     "TimingPointCode": "51540250",
     "StopAreaCode": "AmdOv",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51540280": {
+    "Longitude": 4.9955,
+    "Latitude": 51.94177,
+    "TimingPointTown": "Meerkerk",
+    "TimingPointName": "Ameide, Zouwendijk 125",
+    "TimingPointCode": "51540280",
+    "StopAreaCode": "Amd125",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
@@ -18703,6 +18763,16 @@
     "TimingPointTown": "Ameide",
     "TimingPointName": "Ameide, Sluis 2",
     "TimingPointCode": "51540330",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51540340": {
+    "Longitude": 4.9778605,
+    "Latitude": 51.956028,
+    "TimingPointTown": "Ameide",
+    "TimingPointName": "Ameide, Sluis 2",
+    "TimingPointCode": "51540340",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -18917,6 +18987,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51550250": {
+    "Longitude": 5.0075493,
+    "Latitude": 51.922,
+    "TimingPointTown": "Lexmond",
+    "TimingPointName": "Meerkerk, Meerkerksebrug",
+    "TimingPointCode": "51550250",
+    "StopAreaCode": "MkkMb",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51550260": {
     "Longitude": 4.992578,
     "Latitude": 51.90024,
@@ -19004,6 +19084,26 @@
     "TimingPointName": "Meerkerk, Weverwijk",
     "TimingPointCode": "51551110",
     "StopAreaCode": "MkkWe",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51551120": {
+    "Longitude": 5.014685,
+    "Latitude": 51.911667,
+    "TimingPointTown": "Leerbroek",
+    "TimingPointName": "Meerkerk, Weverwijk",
+    "TimingPointCode": "51551120",
+    "StopAreaCode": "MkkWe",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51551130": {
+    "Longitude": 4.995963,
+    "Latitude": 51.92036,
+    "TimingPointTown": "Meerkerk",
+    "TimingPointName": "Meerkerk, Gemeentehuis",
+    "TimingPointCode": "51551130",
+    "StopAreaCode": "MkkGe",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
@@ -19993,12 +20093,32 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51701030": {
+    "Longitude": 4.7189198,
+    "Latitude": 52.10554,
+    "TimingPointTown": "Zwammerdam",
+    "TimingPointName": "Zwammerdam, De Hooge Burch",
+    "TimingPointCode": "51701030",
+    "StopAreaCode": "ZmdHoo",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51701060": {
     "Longitude": 4.7280664,
     "Latitude": 52.105927,
     "TimingPointTown": "Zwammerdam",
     "TimingPointName": "Zwammerdam, Brugstraat",
     "TimingPointCode": "51701060",
+    "StopAreaCode": "ZmdBru",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51701070": {
+    "Longitude": 4.728125,
+    "Latitude": 52.1059,
+    "TimingPointTown": "Zwammerdam",
+    "TimingPointName": "Zwammerdam, Brugstraat",
+    "TimingPointCode": "51701070",
     "StopAreaCode": "ZmdBru",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -20013,6 +20133,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51701090": {
+    "Longitude": 4.7315855,
+    "Latitude": 52.10384,
+    "TimingPointTown": "Zwammerdam",
+    "TimingPointName": "Zwammerdam, Withenlustbrug",
+    "TimingPointCode": "51701090",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51701100": {
     "Longitude": 4.7340117,
     "Latitude": 52.101627,
@@ -20023,12 +20153,32 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51701110": {
+    "Longitude": 4.733852,
+    "Latitude": 52.10158,
+    "TimingPointTown": "Zwammerdam",
+    "TimingPointName": "Zwammerdam, Dobbelbrug",
+    "TimingPointCode": "51701110",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51701120": {
     "Longitude": 4.735873,
     "Latitude": 52.099094,
     "TimingPointTown": "Zwammerdam",
     "TimingPointName": "Zwammerdam, Cafe 't Zwaantje",
     "TimingPointCode": "51701120",
+    "StopAreaCode": "ZmdZwa",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51701130": {
+    "Longitude": 4.7356825,
+    "Latitude": 52.099144,
+    "TimingPointTown": "Zwammerdam",
+    "TimingPointName": "Zwammerdam, Cafe 't Zwaantje",
+    "TimingPointCode": "51701130",
     "StopAreaCode": "ZmdZwa",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -20083,6 +20233,36 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51702200": {
+    "Longitude": 4.7436094,
+    "Latitude": 52.07974,
+    "TimingPointTown": "Bodegraven",
+    "TimingPointName": "Bodegraven, Ambachtshof",
+    "TimingPointCode": "51702200",
+    "StopAreaCode": "BdgAmb",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51702210": {
+    "Longitude": 4.748159,
+    "Latitude": 52.08601,
+    "TimingPointTown": "Bodegraven",
+    "TimingPointName": "Bodegraven, Marktstraat",
+    "TimingPointCode": "51702210",
+    "StopAreaCode": "BdgMar",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51702240": {
+    "Longitude": 4.744662,
+    "Latitude": 52.08367,
+    "TimingPointTown": "Bodegraven",
+    "TimingPointName": "Bodegraven, Willemstraat",
+    "TimingPointCode": "51702240",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51702250": {
     "Longitude": 4.7446337,
     "Latitude": 52.08359,
@@ -20099,6 +20279,26 @@
     "TimingPointTown": "Bodegraven",
     "TimingPointName": "Bodegraven, Rijksweg nr. 29",
     "TimingPointCode": "51702260",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51702270": {
+    "Longitude": 4.737791,
+    "Latitude": 52.09265,
+    "TimingPointTown": "Bodegraven",
+    "TimingPointName": "Bodegraven, Rijksweg nr. 29",
+    "TimingPointCode": "51702270",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51703010": {
+    "Longitude": 4.7253065,
+    "Latitude": 52.106,
+    "TimingPointTown": "Zwammerdam",
+    "TimingPointName": "Zwammerdam, Buitendorpstraat",
+    "TimingPointCode": "51703010",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -21572,6 +21772,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "51760160": {
+    "Longitude": 5.06294,
+    "Latitude": 51.90506,
+    "TimingPointTown": "Leerdam",
+    "TimingPointName": "Leerdam, Camping Recht van ter Leede",
+    "TimingPointCode": "51760160",
+    "StopAreaCode": "LrdCa",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51760190": {
     "Longitude": 5.0835085,
     "Latitude": 51.88908,
@@ -21642,12 +21852,32 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "51760251": {
+    "Longitude": 5.098705,
+    "Latitude": 51.893272,
+    "TimingPointTown": "Leerdam",
+    "TimingPointName": "Leerdam, Dr. C. Voogdplein",
+    "TimingPointCode": "51760251",
+    "StopAreaCode": "LrdVp",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
   "51760260": {
     "Longitude": 5.0968432,
     "Latitude": 51.893555,
     "TimingPointTown": "Leerdam",
     "TimingPointName": "Leerdam, Dr. C. Voogdplein",
     "TimingPointCode": "51760260",
+    "StopAreaCode": "LrdVp",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "51760261": {
+    "Longitude": 5.0968432,
+    "Latitude": 51.893555,
+    "TimingPointTown": "Leerdam",
+    "TimingPointName": "Leerdam, Dr. C. Voogdplein",
+    "TimingPointCode": "51760261",
     "StopAreaCode": "LrdVp",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
@@ -21662,12 +21892,32 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "51760271": {
+    "Longitude": 5.104303,
+    "Latitude": 51.892467,
+    "TimingPointTown": "Leerdam",
+    "TimingPointName": "Leerdam, Prinses Marijkestraat",
+    "TimingPointCode": "51760271",
+    "StopAreaCode": "LrdPrM",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
   "51760280": {
     "Longitude": 5.1038365,
     "Latitude": 51.89269,
     "TimingPointTown": "Leerdam",
     "TimingPointName": "Leerdam, Prinses Marijkestraat",
     "TimingPointCode": "51760280",
+    "StopAreaCode": "LrdPrM",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "51760281": {
+    "Longitude": 5.1038365,
+    "Latitude": 51.89269,
+    "TimingPointTown": "Leerdam",
+    "TimingPointName": "Leerdam, Prinses Marijkestraat",
+    "TimingPointCode": "51760281",
     "StopAreaCode": "LrdPrM",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
@@ -21862,6 +22112,14 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51760711": {
+    "Longitude": 5.1068363,
+    "Latitude": 51.89155,
+    "TimingPointTown": "Leerdam",
+    "TimingPointName": "Leerdam, Lingestein",
+    "TimingPointCode": "51760711",
+    "StopAreaCode": "LrdLs"
+  },
   "51760720": {
     "Longitude": 5.096248,
     "Latitude": 51.897984,
@@ -21878,6 +22136,16 @@
     "TimingPointTown": "Leerdam",
     "TimingPointName": "Leerdam, Molenlaan",
     "TimingPointCode": "51760721",
+    "StopAreaCode": "LrdMl",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51761290": {
+    "Longitude": 5.096335,
+    "Latitude": 51.898075,
+    "TimingPointTown": "Leerdam",
+    "TimingPointName": "Leerdam, Molenlaan",
+    "TimingPointCode": "51761290",
     "StopAreaCode": "LrdMl",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -22203,6 +22471,16 @@
     "TimingPointTown": "Hoornaar",
     "TimingPointName": "Hoornaar, Viersprong",
     "TimingPointCode": "51940070",
+    "StopAreaCode": "Hnr4s",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51940080": {
+    "Longitude": 4.946981,
+    "Latitude": 51.876774,
+    "TimingPointTown": "Hoornaar",
+    "TimingPointName": "Hoornaar, Viersprong",
+    "TimingPointCode": "51940080",
     "StopAreaCode": "Hnr4s",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -29362,6 +29640,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "53540100": {
+    "Longitude": 4.6355367,
+    "Latitude": 51.889595,
+    "TimingPointTown": "Kinderdijk",
+    "TimingPointName": "Kinderdijk, Molenkade",
+    "TimingPointCode": "53540100",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "53540110": {
     "Longitude": 4.6355224,
     "Latitude": 51.889595,
@@ -33153,12 +33441,52 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "53690130": {
+    "Longitude": 4.722318,
+    "Latitude": 52.045853,
+    "TimingPointTown": "Reeuwijk",
+    "TimingPointName": "Reeuwijk, van Heuven Goedhartstraat",
+    "TimingPointCode": "53690130",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53690140": {
+    "Longitude": 4.7238226,
+    "Latitude": 52.045635,
+    "TimingPointTown": "Reeuwijk",
+    "TimingPointName": "Reeuwijk, Dunantlaan, de Brug",
+    "TimingPointCode": "53690140",
+    "StopAreaCode": "ReBDun",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53690160": {
+    "Longitude": 4.720698,
+    "Latitude": 52.043064,
+    "TimingPointTown": "Reeuwijk",
+    "TimingPointName": "Reeuwijk, Koningin Wilhelminastraat",
+    "TimingPointCode": "53690160",
+    "StopAreaCode": "ReBKwm",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "53690170": {
     "Longitude": 4.6875014,
     "Latitude": 52.043438,
     "TimingPointTown": "Waddinxveen",
     "TimingPointName": "Waddinxveen, Zwarteweg",
     "TimingPointCode": "53690170",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53690180": {
+    "Longitude": 4.6873274,
+    "Latitude": 52.043373,
+    "TimingPointTown": "Waddinxveen",
+    "TimingPointName": "Waddinxveen, Zwarteweg",
+    "TimingPointCode": "53690180",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -33173,6 +33501,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "53690200": {
+    "Longitude": 4.6916733,
+    "Latitude": 52.03481,
+    "TimingPointTown": "Waddinxveen",
+    "TimingPointName": "Waddinxveen, Otweg",
+    "TimingPointCode": "53690200",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "53690270": {
     "Longitude": 4.6907268,
     "Latitude": 52.054424,
@@ -33180,6 +33518,46 @@
     "TimingPointName": "Reeuwijk-Dorp, Centrum",
     "TimingPointCode": "53690270",
     "StopAreaCode": "ReDCen",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53690280": {
+    "Longitude": 4.6906395,
+    "Latitude": 52.054424,
+    "TimingPointTown": "Reeuwijk-Dorp",
+    "TimingPointName": "Reeuwijk-Dorp, Centrum",
+    "TimingPointCode": "53690280",
+    "StopAreaCode": "ReDCen",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53690300": {
+    "Longitude": 4.6885657,
+    "Latitude": 52.05558,
+    "TimingPointTown": "Reeuwijk-Dorp",
+    "TimingPointName": "Reeuwijk-Dorp, Kaagjesland nr. 28",
+    "TimingPointCode": "53690300",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53690320": {
+    "Longitude": 4.682085,
+    "Latitude": 52.056934,
+    "TimingPointTown": "Reeuwijk-Dorp",
+    "TimingPointName": "Reeuwijk-Dorp, Kaagjesland nr. 53",
+    "TimingPointCode": "53690320",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53690340": {
+    "Longitude": 4.685207,
+    "Latitude": 52.068935,
+    "TimingPointTown": "Reeuwijk-Dorp",
+    "TimingPointName": "Reeuwijk-Dorp, Middelburgseweg",
+    "TimingPointCode": "53690340",
+    "StopAreaCode": "ReDMid",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
@@ -33191,6 +33569,26 @@
     "TimingPointCode": "53690350",
     "StopAreaCode": "ReBDun"
   },
+  "53690380": {
+    "Longitude": 4.7060266,
+    "Latitude": 52.066547,
+    "TimingPointTown": "Tempel",
+    "TimingPointName": "Tempel, Tempeldijk",
+    "TimingPointCode": "53690380",
+    "StopAreaCode": "TpdTem",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53690400": {
+    "Longitude": 4.7104654,
+    "Latitude": 52.062347,
+    "TimingPointTown": "Tempel",
+    "TimingPointName": "Tempel, Begraafplaats",
+    "TimingPointCode": "53690400",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "53690410": {
     "Longitude": 4.6946907,
     "Latitude": 52.054565,
@@ -33198,6 +33596,26 @@
     "TimingPointName": "Reeuwijk-Dorp, Dorpsweg",
     "TimingPointCode": "53690410",
     "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53690620": {
+    "Longitude": 4.724758,
+    "Latitude": 52.05434,
+    "TimingPointTown": "Tempel",
+    "TimingPointName": "Tempel, Reeuwijkse-Poort",
+    "TimingPointCode": "53690620",
+    "StopAreaCode": "ReBRee",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53692050": {
+    "Longitude": 4.730403,
+    "Latitude": 52.04523,
+    "TimingPointTown": "Reeuwijk-Brug",
+    "TimingPointName": "Reeuwijk-Brug, Medisch Centrum",
+    "TimingPointCode": "53692050",
+    "StopAreaCode": "ReBMed",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
@@ -51431,6 +51849,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "90000038": {
+    "Longitude": 4.7031193,
+    "Latitude": 52.030613,
+    "TimingPointTown": "Gouda",
+    "TimingPointName": "Gouda, Winkelcentrum Bloemendaal",
+    "TimingPointCode": "90000038",
+    "StopAreaCode": "GdWCB",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "90000039": {
     "Longitude": 4.8501024,
     "Latitude": 51.949787,
@@ -52193,10 +52621,21 @@
   "99991242": {},
   "99991243": {},
   "99991244": {},
+  "99991245": {},
   "99991246": {},
   "99991247": {},
+  "99991248": {},
   "99991251": {},
+  "99991300": {},
   "99991301": {},
+  "99992200": {},
+  "99992201": {},
+  "99992202": {},
+  "99992203": {},
+  "99992204": {},
+  "99992205": {},
+  "99992206": {},
+  "99992207": {},
   "99992208": {},
   "99992209": {},
   "99992210": {},
@@ -52215,5 +52654,7 @@
   "99993202": {},
   "99993203": {},
   "99994200": {},
-  "99994201": {}
+  "99994201": {},
+  "99994202": {},
+  "99994203": {}
 }
