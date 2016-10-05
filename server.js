@@ -45,6 +45,21 @@ var openov$ = openov.subscribe()
     }
   });
 
+
+setInterval(() => {
+    var dt = new Date();
+    dt.setHours(dt.getHours() - 1);
+
+    for (var key in rows) {
+      var row = rows[key];
+      var lastUpdateTimeStamp = new Date(row.lastUpdateTimeStamp);
+      
+      if (lastUpdateTimeStamp < dt) {
+        delete rows[key];
+      }
+    }  
+}, 5000);
+
 var server = require('http').createServer(app);
 var io = require('socket.io')(server);
 
