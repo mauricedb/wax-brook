@@ -45,6 +45,8 @@ var openov$ = openov.subscribe()
     }
   });
 
+// make sure the data keeps flowing 
+openov$.subscribe();
 
 setInterval(() => {
     var dt = new Date();

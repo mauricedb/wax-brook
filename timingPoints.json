@@ -531,7 +531,7 @@
     "Longitude": 4.319839,
     "Latitude": 52.092545,
     "TimingPointTown": "Den Haag",
-    "TimingPointName": "Jozef Israëlsplein",
+    "TimingPointName": "Jozef IsraÃ«lsplein",
     "TimingPointCode": "32000426",
     "StopAreaCode": "426",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
@@ -541,7 +541,7 @@
     "Longitude": 4.3194537,
     "Latitude": 52.09219,
     "TimingPointTown": "Den Haag",
-    "TimingPointName": "Jozef Israëlsplein",
+    "TimingPointName": "Jozef IsraÃ«lsplein",
     "TimingPointCode": "32000427",
     "StopAreaCode": "426",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
@@ -1599,7 +1599,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "32000942": {},
   "32000943": {
     "Longitude": 4.272767,
     "Latitude": 52.094654,
@@ -3900,7 +3899,7 @@
     "Longitude": 4.336252,
     "Latitude": 52.085896,
     "TimingPointTown": "Den Haag",
-    "TimingPointName": "Laan van Nieuw Oost Indië",
+    "TimingPointName": "Laan van Nieuw Oost IndiÃ«",
     "TimingPointCode": "32002635",
     "StopAreaCode": "2635",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
@@ -3910,7 +3909,7 @@
     "Longitude": 4.3359804,
     "Latitude": 52.085663,
     "TimingPointTown": "Den Haag",
-    "TimingPointName": "Laan van Nieuw Oost Indië",
+    "TimingPointName": "Laan van Nieuw Oost IndiÃ«",
     "TimingPointCode": "32002636",
     "StopAreaCode": "2635",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
@@ -11742,6 +11741,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "42020501": {
+    "Longitude": 4.3848424,
+    "Latitude": 52.050636,
+    "TimingPointTown": "Den Haag",
+    "TimingPointName": "Den Haag, Weidevogellaan / De Reef",
+    "TimingPointCode": "42020501",
+    "StopAreaCode": "GvWeid",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "42021101": {
     "Longitude": 4.1582456,
     "Latitude": 52.01823,
@@ -13196,6 +13205,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "42035501": {
+    "Longitude": 4.1931825,
+    "Latitude": 52.01442,
+    "TimingPointTown": "Monster",
+    "TimingPointName": "Monster, Papelaan",
+    "TimingPointCode": "42035501",
+    "StopAreaCode": "MnsPap",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "42035502": {
     "Longitude": 4.1925316,
     "Latitude": 52.014793,
@@ -13295,6 +13314,16 @@
     "StopAreaCode": "MnsVer",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "42036002": {
+    "Longitude": 4.184588,
+    "Latitude": 52.02363,
+    "TimingPointTown": "Monster",
+    "TimingPointName": "Monster, Verdilaan",
+    "TimingPointCode": "42036002",
+    "StopAreaCode": "MnsVer",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
   "42036101": {
     "Longitude": 4.1684885,
@@ -13504,6 +13533,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "42039001": {
+    "Longitude": 4.4116898,
+    "Latitude": 52.03495,
+    "TimingPointTown": "Nootdorp",
+    "TimingPointName": "Nootdorp, Begraafplaats St. Janshof",
+    "TimingPointCode": "42039001",
+    "StopAreaCode": "NtdBJa",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "42039002": {
     "Longitude": 4.4113493,
     "Latitude": 52.035183,
@@ -13554,6 +13593,26 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "42039502": {
+    "Longitude": 4.4007287,
+    "Latitude": 52.045593,
+    "TimingPointTown": "Nootdorp",
+    "TimingPointName": "Nootdorp, Larixlaan",
+    "TimingPointCode": "42039502",
+    "StopAreaCode": "NtdLar",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "42039901": {
+    "Longitude": 4.3974485,
+    "Latitude": 52.044926,
+    "TimingPointTown": "Nootdorp",
+    "TimingPointName": "Nootdorp, Veenhage",
+    "TimingPointCode": "42039901",
+    "StopAreaCode": "NtdVee",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "42039902": {
     "Longitude": 4.39755,
     "Latitude": 52.044964,
@@ -13594,6 +13653,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "42040202": {
+    "Longitude": 4.2001987,
+    "Latitude": 52.008575,
+    "TimingPointTown": "Naaldwijk",
+    "TimingPointName": "Naaldwijk, Grote Achterweg",
+    "TimingPointCode": "42040202",
+    "StopAreaCode": "NwkGAc",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "42040301": {
     "Longitude": 4.19738,
     "Latitude": 51.989098,
@@ -13623,6 +13692,16 @@
     "StopAreaCode": "NwkHWo",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "42040402": {
+    "Longitude": 4.207426,
+    "Latitude": 52.00129,
+    "TimingPointTown": "Naaldwijk",
+    "TimingPointName": "Naaldwijk, Hoge Woerd",
+    "TimingPointCode": "42040402",
+    "StopAreaCode": "NwkHWo",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
   "42040501": {
     "Longitude": 4.2145224,
@@ -13703,6 +13782,16 @@
     "StopAreaCode": "NwkPTu",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "42041201": {
+    "Longitude": 4.21095,
+    "Latitude": 51.993546,
+    "TimingPointTown": "Naaldwijk",
+    "TimingPointName": "Naaldwijk, Busstation (Perron J)",
+    "TimingPointCode": "42041201",
+    "StopAreaCode": "NwkVer",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
   "42041202": {
     "Longitude": 4.211816,
@@ -13918,6 +14007,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "42042203": {
+    "Longitude": 4.431874,
+    "Latitude": 52.022713,
+    "TimingPointTown": "Pijnacker",
+    "TimingPointName": "Pijnacker, Bremlaan",
+    "TimingPointCode": "42042203",
+    "StopAreaCode": "PynBre",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "42042301": {
     "Longitude": 4.4595623,
     "Latitude": 52.036533,
@@ -13978,11 +14077,31 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "42042803": {
+    "Longitude": 4.4291487,
+    "Latitude": 52.026142,
+    "TimingPointTown": "Pijnacker",
+    "TimingPointName": "Pijnacker, Groen van Prinstererlaan",
+    "TimingPointCode": "42042803",
+    "StopAreaCode": "PynGvP",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "42042901": {
+    "Longitude": 4.4456325,
+    "Latitude": 52.014175,
+    "TimingPointTown": "Pijnacker",
+    "TimingPointName": "Pijnacker, Marga KlompÃ©laan",
+    "TimingPointCode": "42042901",
+    "StopAreaCode": "PynKlo",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "42042902": {
     "Longitude": 4.445576,
     "Latitude": 52.014084,
     "TimingPointTown": "Pijnacker",
-    "TimingPointName": "Pijnacker, Marga Klompélaan",
+    "TimingPointName": "Pijnacker, Marga KlompÃ©laan",
     "TimingPointCode": "42042902",
     "StopAreaCode": "PynKlo",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
@@ -14075,6 +14194,16 @@
     "TimingPointName": "Nootdorpseweg",
     "TimingPointCode": "42043401",
     "StopAreaCode": "PynNoo",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "42043501": {
+    "Longitude": 4.4132185,
+    "Latitude": 51.98407,
+    "TimingPointTown": "Oude Leede",
+    "TimingPointName": "Oude Leede, Oude Leedeweg",
+    "TimingPointCode": "42043501",
+    "StopAreaCode": "DlgOLe",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
@@ -16546,12 +16675,32 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "42068202": {
+    "Longitude": 4.4052105,
+    "Latitude": 52.045296,
+    "TimingPointTown": "Nootdorp",
+    "TimingPointName": "Nootdorp, Poort van Nootdorp",
+    "TimingPointCode": "42068202",
+    "StopAreaCode": "NtdPvN",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "42068301": {
     "Longitude": 4.4091454,
     "Latitude": 52.048008,
     "TimingPointTown": "Nootdorp",
     "TimingPointName": "Nootdorp, De Poort",
     "TimingPointCode": "42068301",
+    "StopAreaCode": "NtdDPo",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "42068302": {
+    "Longitude": 4.4091477,
+    "Latitude": 52.0479,
+    "TimingPointTown": "Nootdorp",
+    "TimingPointName": "Nootdorp, De Poort",
+    "TimingPointCode": "42068302",
     "StopAreaCode": "NtdDPo",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -16836,6 +16985,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "42073301": {
+    "Longitude": 4.444827,
+    "Latitude": 52.003975,
+    "TimingPointTown": "Pijnacker",
+    "TimingPointName": "Pijnacker, Station RandstadRail Zuid",
+    "TimingPointCode": "42073301",
+    "StopAreaCode": "PynFlo",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "42073302": {
     "Longitude": 4.444521,
     "Latitude": 52.00399,
@@ -16966,12 +17125,32 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "42074601": {
+    "Longitude": 4.4224925,
+    "Latitude": 51.98607,
+    "TimingPointTown": "Oude Leede",
+    "TimingPointName": "Oude Leede, Voormalige school",
+    "TimingPointCode": "42074601",
+    "StopAreaCode": "DlgVms",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "42074701": {
     "Longitude": 4.414683,
     "Latitude": 52.04678,
     "TimingPointTown": "Nootdorp",
     "TimingPointName": "Nootdorp, Station RandstadRail",
     "TimingPointCode": "42074701",
+    "StopAreaCode": "NtdRR",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "42074702": {
+    "Longitude": 4.414403,
+    "Latitude": 52.0469,
+    "TimingPointTown": "Nootdorp",
+    "TimingPointName": "Nootdorp, Station RandstadRail",
+    "TimingPointCode": "42074702",
     "StopAreaCode": "NtdRR",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -17234,6 +17413,14 @@
     "TimingPointCode": "42077302",
     "StopAreaCode": "MssInd"
   },
+  "42077401": {
+    "Longitude": 4.4264364,
+    "Latitude": 52.02826,
+    "TimingPointTown": "Pijnacker",
+    "TimingPointName": "Pijnacker, Uitvaartcentrum",
+    "TimingPointCode": "42077401",
+    "StopAreaCode": "PynUit"
+  },
   "42077402": {
     "Longitude": 4.4264393,
     "Latitude": 52.028133,
@@ -17405,8 +17592,6 @@
     "StopAreaCode": "UtJbp"
   },
   "50009550": {},
-  "50009560": {},
-  "50009970": {},
   "51111413": {
     "Longitude": 5.0818667,
     "Latitude": 52.06882,
@@ -17459,13 +17644,7 @@
   },
   "51119500": {},
   "51119510": {},
-  "51119530": {},
-  "51119610": {},
-  "51119990": {},
   "51229500": {},
-  "51229510": {},
-  "51229610": {},
-  "51229620": {},
   "51320130": {
     "Longitude": 5.0409417,
     "Latitude": 52.016163,
@@ -17556,9 +17735,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "51329610": {},
-  "51329620": {},
-  "51329990": {},
   "51340210": {
     "Longitude": 5.069401,
     "Latitude": 51.98199,
@@ -17659,10 +17835,7 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "51349510": {},
   "51349520": {},
-  "51349530": {},
-  "51349540": {},
   "51400010": {
     "Longitude": 4.892636,
     "Latitude": 52.085663,
@@ -17693,6 +17866,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51400050": {
+    "Longitude": 4.887852,
+    "Latitude": 52.085506,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Wilhelminaweg/Rijnstraat",
+    "TimingPointCode": "51400050",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51400060": {
     "Longitude": 4.8840737,
     "Latitude": 52.08416,
@@ -17700,6 +17883,16 @@
     "TimingPointName": "Woerden, Oranjestraat/Havenstraat",
     "TimingPointCode": "51400060",
     "StopAreaCode": "wdnhav",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "51400070": {
+    "Longitude": 4.884044,
+    "Latitude": 52.084213,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Oranjestraat",
+    "TimingPointCode": "51400070",
+    "StopAreaCode": "WdOra",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
@@ -17712,6 +17905,16 @@
     "StopAreaCode": "wdnjis",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51400120": {
+    "Longitude": 4.8725266,
+    "Latitude": 52.087303,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Jozef Israelslaan",
+    "TimingPointCode": "51400120",
+    "StopAreaCode": "wdnisr",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
   },
   "51400130": {
     "Longitude": 4.867479,
@@ -17763,12 +17966,32 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51400271": {
+    "Longitude": 4.887741,
+    "Latitude": 52.086315,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Plantsoen",
+    "TimingPointCode": "51400271",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51400280": {
     "Longitude": 4.875659,
     "Latitude": 52.08899,
     "TimingPointTown": "Woerden",
     "TimingPointName": "Woerden, Nicolaas Maesstraat",
     "TimingPointCode": "51400280",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51400281": {
+    "Longitude": 4.8755713,
+    "Latitude": 52.08897,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Nicolaas Maesstraat",
+    "TimingPointCode": "51400281",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -17783,6 +18006,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "51400291": {
+    "Longitude": 4.873998,
+    "Latitude": 52.08873,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Nicolaas Maesstraat",
+    "TimingPointCode": "51400291",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
   "51400460": {
     "Longitude": 4.882444,
     "Latitude": 52.087677,
@@ -17793,6 +18026,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51400461": {
+    "Longitude": 4.8824005,
+    "Latitude": 52.087643,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Westdam",
+    "TimingPointCode": "51400461",
+    "StopAreaCode": "WdWes",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51400470": {
     "Longitude": 4.882063,
     "Latitude": 52.08783,
@@ -17800,6 +18043,16 @@
     "TimingPointName": "Woerden, Westdam",
     "TimingPointCode": "51400470",
     "StopAreaCode": "wdnwes",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51400471": {
+    "Longitude": 4.882121,
+    "Latitude": 52.08782,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Westdam",
+    "TimingPointCode": "51400471",
+    "StopAreaCode": "WdWes",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
@@ -17823,6 +18076,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "51400531": {
+    "Longitude": 4.8798733,
+    "Latitude": 52.089195,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Ridderstraat",
+    "TimingPointCode": "51400531",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
   "51400540": {
     "Longitude": 4.8796096,
     "Latitude": 52.089302,
@@ -17832,6 +18095,26 @@
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "51400541": {
+    "Longitude": 4.879653,
+    "Latitude": 52.089302,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Ridderstraat",
+    "TimingPointCode": "51400541",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "51400590": {
+    "Longitude": 4.8723664,
+    "Latitude": 52.084732,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Lindenlaan",
+    "TimingPointCode": "51400590",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
   "51400600": {
     "Longitude": 4.8718014,
@@ -17843,6 +18126,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51400650": {
+    "Longitude": 4.862385,
+    "Latitude": 52.08243,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Kuipersweg",
+    "TimingPointCode": "51400650",
+    "StopAreaCode": "wdnkui",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51400660": {
     "Longitude": 4.863336,
     "Latitude": 52.082165,
@@ -17850,6 +18143,16 @@
     "TimingPointName": "Woerden, Kuipersweg",
     "TimingPointCode": "51400660",
     "StopAreaCode": "wdnkui",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51400670": {
+    "Longitude": 4.8676715,
+    "Latitude": 52.08195,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Molenvlietbaan",
+    "TimingPointCode": "51400670",
+    "StopAreaCode": "wdnmol",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
@@ -17893,8 +18196,26 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "51409980": {},
-  "51409990": {},
+  "51401040": {
+    "Longitude": 4.8915815,
+    "Latitude": 52.08074,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Hofpoort Ziekenhuis",
+    "TimingPointCode": "51401040",
+    "StopAreaCode": "wdnzkh",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51401050": {
+    "Longitude": 4.89196,
+    "Latitude": 52.080814,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Hofpoort Ziekenhuis",
+    "TimingPointCode": "51401050",
+    "StopAreaCode": "WdHof",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51420010": {
     "Longitude": 5.0032144,
     "Latitude": 52.010788,
@@ -18025,8 +18346,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "51429610": {},
-  "51429620": {},
   "51440010": {
     "Longitude": 5.0212655,
     "Latitude": 51.965652,
@@ -18318,7 +18637,6 @@
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
   "51449500": {},
-  "51449530": {},
   "51460060": {
     "Longitude": 5.141942,
     "Latitude": 51.94064,
@@ -18339,16 +18657,32 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "51469510": {},
-  "51469520": {},
-  "51479500": {},
-  "51479510": {},
+  "51500350": {
+    "Longitude": 4.857115,
+    "Latitude": 52.086407,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, Gildenweg",
+    "TimingPointCode": "51500350",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51502000": {
     "Longitude": 4.823528,
     "Latitude": 52.074837,
     "TimingPointTown": "Nieuwerbrug",
     "TimingPointName": "Nieuwerbrug, Verburg",
     "TimingPointCode": "51502000",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51502010": {
+    "Longitude": 4.8234844,
+    "Latitude": 52.074783,
+    "TimingPointTown": "Nieuwerbrug",
+    "TimingPointName": "Nieuwerbrug, Verburg",
+    "TimingPointCode": "51502010",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -18363,12 +18697,42 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51502030": {
+    "Longitude": 4.818797,
+    "Latitude": 52.076332,
+    "TimingPointTown": "Nieuwerbrug",
+    "TimingPointName": "Nieuwerbrug, Burg. Bruntstraat",
+    "TimingPointCode": "51502030",
+    "StopAreaCode": "NwbBur",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51502050": {
+    "Longitude": 4.8135924,
+    "Latitude": 52.077232,
+    "TimingPointTown": "Nieuwerbrug",
+    "TimingPointName": "Nieuwerbrug, Graaf Albrechtstraat",
+    "TimingPointCode": "51502050",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51502060": {
     "Longitude": 4.823403,
     "Latitude": 52.078934,
     "TimingPointTown": "Nieuwerbrug",
     "TimingPointName": "Nieuwerbrug, Hoge Rijndijk nr. 94",
     "TimingPointCode": "51502060",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51502070": {
+    "Longitude": 4.8233585,
+    "Latitude": 52.078987,
+    "TimingPointTown": "Nieuwerbrug",
+    "TimingPointName": "Nieuwerbrug, Hoge Rijndijk nr. 94",
+    "TimingPointCode": "51502070",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -18523,10 +18887,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "51539620": {},
-  "51539960": {},
-  "51539970": {},
-  "51539980": {},
   "51540010": {
     "Longitude": 4.964066,
     "Latitude": 51.95786,
@@ -19117,10 +19477,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "51559530": {},
-  "51559540": {},
-  "51559560": {},
-  "51559570": {},
   "51560020": {
     "Longitude": 5.0519023,
     "Latitude": 51.949116,
@@ -19301,12 +19657,32 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51602060": {
+    "Longitude": 4.7821965,
+    "Latitude": 52.0829,
+    "TimingPointTown": "Bodegraven",
+    "TimingPointName": "Bodegraven, Wierickerschans",
+    "TimingPointCode": "51602060",
+    "StopAreaCode": "BdgWie",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51602070": {
     "Longitude": 4.7924366,
     "Latitude": 52.064392,
     "TimingPointTown": "Bodegraven",
     "TimingPointName": "Bodegraven, Parallelweg",
     "TimingPointCode": "51602070",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51602080": {
+    "Longitude": 4.792567,
+    "Latitude": 52.064457,
+    "TimingPointTown": "Bodegraven",
+    "TimingPointName": "Bodegraven, Parallelweg",
+    "TimingPointCode": "51602080",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -19771,8 +20147,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "51659560": {},
-  "51659570": {},
   "51660030": {
     "Longitude": 5.1266565,
     "Latitude": 51.93073,
@@ -19843,6 +20217,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "51680150": {
+    "Longitude": 4.8204956,
+    "Latitude": 52.062023,
+    "TimingPointTown": "Waarder",
+    "TimingPointName": "Waarder, Kerverland",
+    "TimingPointCode": "51680150",
+    "StopAreaCode": "wdrker",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51680160": {
     "Longitude": 4.8205404,
     "Latitude": 52.061924,
@@ -19850,6 +20234,16 @@
     "TimingPointName": "Waarder, Kerverland",
     "TimingPointCode": "51680160",
     "StopAreaCode": "wdrker",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51680170": {
+    "Longitude": 4.821894,
+    "Latitude": 52.064438,
+    "TimingPointTown": "Waarder",
+    "TimingPointName": "Waarder, Begraafplaats",
+    "TimingPointCode": "51680170",
+    "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
@@ -19873,6 +20267,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51681110": {
+    "Longitude": 4.795728,
+    "Latitude": 52.043728,
+    "TimingPointTown": "Driebruggen",
+    "TimingPointName": "Driebruggen, Custwijc",
+    "TimingPointCode": "51681110",
+    "StopAreaCode": "DrbCus",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51681120": {
     "Longitude": 4.8005166,
     "Latitude": 52.044262,
@@ -19883,12 +20287,32 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51681130": {
+    "Longitude": 4.8005013,
+    "Latitude": 52.044342,
+    "TimingPointTown": "Driebruggen",
+    "TimingPointName": "Driebruggen, Gemeentehuis",
+    "TimingPointCode": "51681130",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51681140": {
     "Longitude": 4.8047476,
     "Latitude": 52.045128,
     "TimingPointTown": "Driebruggen",
     "TimingPointName": "Driebruggen, Kievitlaan",
     "TimingPointCode": "51681140",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51681150": {
+    "Longitude": 4.804644,
+    "Latitude": 52.045208,
+    "TimingPointTown": "Driebruggen",
+    "TimingPointName": "Driebruggen, Kievitlaan",
+    "TimingPointCode": "51681150",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -20083,6 +20507,26 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "51701000": {
+    "Longitude": 4.7690005,
+    "Latitude": 52.112995,
+    "TimingPointTown": "Meije",
+    "TimingPointName": "Meije, Hollandse Boerderij",
+    "TimingPointCode": "51701000",
+    "StopAreaCode": "MeiHol",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51701010": {
+    "Longitude": 4.768941,
+    "Latitude": 52.113068,
+    "TimingPointTown": "Meije",
+    "TimingPointName": "Meije, Hollandse Boerderij",
+    "TimingPointCode": "51701010",
+    "StopAreaCode": "MeiHol",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51701020": {
     "Longitude": 4.7187877,
     "Latitude": 52.105587,
@@ -20100,6 +20544,26 @@
     "TimingPointName": "Zwammerdam, De Hooge Burch",
     "TimingPointCode": "51701030",
     "StopAreaCode": "ZmdHoo",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51701040": {
+    "Longitude": 4.74287,
+    "Latitude": 52.087555,
+    "TimingPointTown": "Bodegraven",
+    "TimingPointName": "Bodegraven, Vijverlaan",
+    "TimingPointCode": "51701040",
+    "StopAreaCode": "BdgVij",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51701050": {
+    "Longitude": 4.742842,
+    "Latitude": 52.087437,
+    "TimingPointTown": "Bodegraven",
+    "TimingPointName": "Bodegraven, Vijverlaan",
+    "TimingPointCode": "51701050",
+    "StopAreaCode": "BdgVij",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
@@ -20223,12 +20687,32 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51702020": {
+    "Longitude": 4.75753,
+    "Latitude": 52.081577,
+    "TimingPointTown": "Bodegraven",
+    "TimingPointName": "Bodegraven, Landlust",
+    "TimingPointCode": "51702020",
+    "StopAreaCode": "BdgLan",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51702030": {
     "Longitude": 4.7615027,
     "Latitude": 52.08021,
     "TimingPointTown": "Bodegraven",
     "TimingPointName": "Bodegraven, Molenbrug",
     "TimingPointCode": "51702030",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51702040": {
+    "Longitude": 4.76156,
+    "Latitude": 52.08031,
+    "TimingPointTown": "Bodegraven",
+    "TimingPointName": "Bodegraven, Molenbrug",
+    "TimingPointCode": "51702040",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -20251,6 +20735,26 @@
     "TimingPointCode": "51702210",
     "StopAreaCode": "BdgMar",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51702220": {
+    "Longitude": 4.74815,
+    "Latitude": 52.08666,
+    "TimingPointTown": "Bodegraven",
+    "TimingPointName": "Bodegraven, Marktstraat",
+    "TimingPointCode": "51702220",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51702230": {
+    "Longitude": 4.747441,
+    "Latitude": 52.084198,
+    "TimingPointTown": "Bodegraven",
+    "TimingPointName": "Bodegraven, Brugstraat",
+    "TimingPointCode": "51702230",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
   "51702240": {
@@ -20313,7 +20817,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "51709990": {},
   "51740010": {
     "Longitude": 4.8390956,
     "Latitude": 51.9387,
@@ -20544,6 +21047,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51740260": {
+    "Longitude": 4.8514566,
+    "Latitude": 51.93624,
+    "TimingPointTown": "Nieuwpoort",
+    "TimingPointName": "Nieuwpoort, Industrieterrein Gelkenes",
+    "TimingPointCode": "51740260",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51742060": {
     "Longitude": 4.8537383,
     "Latitude": 51.940018,
@@ -20574,7 +21087,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "51749520": {},
   "51750040": {
     "Longitude": 4.975893,
     "Latitude": 51.832466,
@@ -21299,6 +21811,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "51752140": {
+    "Longitude": 4.972981,
+    "Latitude": 51.8478,
+    "TimingPointTown": "Gorinchem",
+    "TimingPointName": "Gorinchem, Viaduct A15/Gomarus",
+    "TimingPointCode": "51752140",
+    "StopAreaCode": "GrcHo",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
   "51752150": {
     "Longitude": 4.960925,
     "Latitude": 51.83815,
@@ -21567,23 +22089,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "51759510": {},
-  "51759520": {},
-  "51759550": {},
-  "51759560": {},
-  "51759570": {},
-  "51759610": {},
-  "51759620": {},
-  "51759630": {},
-  "51759650": {},
-  "51759660": {},
-  "51759670": {},
-  "51759740": {},
-  "51759770": {},
-  "51759810": {},
-  "51759820": {},
-  "51759830": {},
-  "51759840": {},
   "51760030": {
     "Longitude": 5.0851417,
     "Latitude": 51.89675,
@@ -22170,12 +22675,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "51769510": {},
-  "51769520": {},
-  "51769530": {},
-  "51769540": {},
-  "51769550": {},
-  "51769560": {},
+  "51800030": {
+    "Longitude": 4.686387,
+    "Latitude": 52.117416,
+    "TimingPointTown": "Alphen a/d Rijn",
+    "TimingPointName": "Alphen a/d Rijn, Steekterweg nr. 69",
+    "TimingPointCode": "51800030",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51800040": {
     "Longitude": 4.6863713,
     "Latitude": 52.117504,
@@ -22186,6 +22695,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "51800050": {
+    "Longitude": 4.697291,
+    "Latitude": 52.114784,
+    "TimingPointTown": "Alphen a/d Rijn",
+    "TimingPointName": "Alphen a/d Rijn, Goudse Rijpad",
+    "TimingPointCode": "51800050",
+    "StopAreaCode": "ApRGou",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "51800060": {
     "Longitude": 4.697362,
     "Latitude": 52.1149,
@@ -22193,6 +22712,16 @@
     "TimingPointName": "Alphen a/d Rijn, Goudse Rijpad",
     "TimingPointCode": "51800060",
     "StopAreaCode": "ApRGou",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "51800070": {
+    "Longitude": 4.7058287,
+    "Latitude": 52.11306,
+    "TimingPointTown": "Alphen a/d Rijn",
+    "TimingPointName": "Alphen a/d Rijn, Steekterweg nr. 88",
+    "TimingPointCode": "51800070",
+    "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
@@ -22412,9 +22941,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "51849440": {},
-  "51849500": {},
-  "51849510": {},
+  "51841130": {
+    "Longitude": 4.8596463,
+    "Latitude": 51.890186,
+    "TimingPointTown": "Ottoland",
+    "TimingPointName": "Ottoland, Vlietbrug",
+    "TimingPointCode": "51841130",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
   "51940010": {
     "Longitude": 4.921256,
     "Latitude": 51.913788,
@@ -22615,8 +23151,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "51945000": {},
-  "51945010": {},
   "53003020": {
     "Longitude": 4.482286,
     "Latitude": 51.908695,
@@ -22697,11 +23231,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53119510": {},
-  "53119520": {},
-  "53119620": {},
-  "53119930": {},
-  "53119940": {},
   "53140030": {
     "Longitude": 4.501479,
     "Latitude": 51.88019,
@@ -22772,7 +23301,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53149510": {},
   "53210012": {
     "Longitude": 4.5522404,
     "Latitude": 51.95216,
@@ -23003,10 +23531,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53219930": {},
-  "53219940": {},
-  "53219950": {},
-  "53219960": {},
   "53220010": {
     "Longitude": 4.5903845,
     "Latitude": 51.91273,
@@ -23397,12 +23921,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53229610": {},
-  "53229940": {},
-  "53229950": {},
-  "53229960": {},
-  "53229970": {},
-  "53229980": {},
   "53240290": {
     "Longitude": 4.5341306,
     "Latitude": 51.880875,
@@ -23554,13 +24072,6 @@
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
   "53249530": {},
-  "53249540": {},
-  "53249550": {},
-  "53249560": {},
-  "53249600": {},
-  "53249610": {},
-  "53249650": {},
-  "53249660": {},
   "53280010": {
     "Longitude": 4.547472,
     "Latitude": 51.850857,
@@ -23891,10 +24402,7 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53319950": {},
-  "53319960": {},
   "53319970": {},
-  "53319980": {},
   "53320010": {
     "Longitude": 4.6227994,
     "Latitude": 51.93217,
@@ -24155,7 +24663,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53329980": {},
   "53330010": {
     "Longitude": 4.605748,
     "Latitude": 51.89678,
@@ -24486,13 +24993,7 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "53339910": {},
-  "53339930": {},
-  "53339940": {},
-  "53339950": {},
-  "53339960": {},
   "53339970": {},
-  "53339980": {},
   "53340190": {
     "Longitude": 4.6024437,
     "Latitude": 51.86634,
@@ -25013,14 +25514,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "53349510": {},
-  "53349511": {},
-  "53349520": {},
-  "53349530": {},
-  "53349570": {},
-  "53349580": {},
-  "53349600": {},
-  "53349610": {},
   "53400010": {
     "Longitude": 4.641391,
     "Latitude": 51.852806,
@@ -25551,8 +26044,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53409590": {},
-  "53409600": {},
   "53410010": {
     "Longitude": 4.6543818,
     "Latitude": 51.97761,
@@ -25753,8 +26244,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53419970": {},
-  "53419980": {},
   "53420010": {
     "Longitude": 4.6574693,
     "Latitude": 51.975708,
@@ -25985,7 +26474,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53429970": {},
   "53430010": {
     "Longitude": 4.684809,
     "Latitude": 51.92321,
@@ -26714,11 +27202,7 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "53439620": {},
-  "53439930": {},
-  "53439950": {},
   "53439970": {},
-  "53439980": {},
   "53440050": {
     "Longitude": 4.670003,
     "Latitude": 51.86627,
@@ -27109,9 +27593,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53449530": {},
-  "53449900": {},
-  "53449901": {},
   "53490240": {
     "Longitude": 4.2361813,
     "Latitude": 51.926147,
@@ -27892,16 +28373,7 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53509330": {},
-  "53509350": {},
-  "53509360": {},
   "53509380": {},
-  "53509470": {},
-  "53509480": {},
-  "53509530": {},
-  "53509540": {},
-  "53509620": {},
-  "53509670": {},
   "53510030": {
     "Longitude": 4.708758,
     "Latitude": 52.015285,
@@ -27992,8 +28464,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "53510130": {},
-  "53510140": {},
   "53510150": {
     "Longitude": 4.712676,
     "Latitude": 52.008522,
@@ -28042,7 +28512,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "53510240": {},
   "53510250": {
     "Longitude": 4.698651,
     "Latitude": 52.00941,
@@ -28333,12 +28802,32 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "53510860": {
+    "Longitude": 4.723815,
+    "Latitude": 52.02256,
+    "TimingPointTown": "Gouda",
+    "TimingPointName": "Gouda, Driewegplein",
+    "TimingPointCode": "53510860",
+    "StopAreaCode": "GdDri",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "53510870": {
     "Longitude": 4.723757,
     "Latitude": 52.020576,
     "TimingPointTown": "Gouda",
     "TimingPointName": "Gouda, Doorslag",
     "TimingPointCode": "53510870",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53510880": {
+    "Longitude": 4.72384,
+    "Latitude": 52.020836,
+    "TimingPointTown": "Gouda",
+    "TimingPointName": "Gouda, Doorslag",
+    "TimingPointCode": "53510880",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -29277,6 +29766,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "53514727": {
+    "Longitude": 4.707001,
+    "Latitude": 52.016804,
+    "TimingPointTown": "Gouda",
+    "TimingPointName": "Gouda, Station",
+    "TimingPointCode": "53514727",
+    "StopAreaCode": "GdSta",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "53515190": {
     "Longitude": 4.707352,
     "Latitude": 52.016724,
@@ -29287,26 +29786,8 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53518770": {},
-  "53518790": {},
-  "53518800": {},
-  "53518810": {},
-  "53518820": {},
-  "53518830": {},
-  "53518840": {},
   "53518850": {},
-  "53518860": {},
-  "53518870": {},
-  "53518880": {},
-  "53518890": {},
-  "53518910": {},
-  "53518920": {},
-  "53518930": {},
-  "53518950": {},
   "53518970": {},
-  "53518980": {},
-  "53518990": {},
-  "53519950": {},
   "53530010": {
     "Longitude": 4.786275,
     "Latitude": 51.93126,
@@ -29557,9 +30038,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "53539610": {},
-  "53539980": {},
-  "53539990": {},
   "53540010": {
     "Longitude": 4.6290817,
     "Latitude": 51.882137,
@@ -29661,7 +30139,6 @@
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
   "53549510": {},
-  "53549520": {},
   "53550010": {
     "Longitude": 4.691497,
     "Latitude": 51.835846,
@@ -29748,6 +30225,16 @@
     "TimingPointTown": "Papendrecht",
     "TimingPointName": "Papendrecht, Veer",
     "TimingPointCode": "53550130",
+    "StopAreaCode": "PpdVee",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53550140": {
+    "Longitude": 4.6823044,
+    "Latitude": 51.822433,
+    "TimingPointTown": "Papendrecht",
+    "TimingPointName": "Papendrecht, Veer",
+    "TimingPointCode": "53550140",
     "StopAreaCode": "PpdVee",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -30368,13 +30855,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "53559510": {},
-  "53559520": {},
-  "53559610": {},
-  "53559620": {},
-  "53559660": {},
-  "53559670": {},
-  "53559720": {},
   "53560010": {
     "Longitude": 4.738796,
     "Latitude": 51.862103,
@@ -30534,6 +31014,16 @@
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53560250": {
+    "Longitude": 4.7289824,
+    "Latitude": 51.860107,
+    "TimingPointTown": "Oud Alblas",
+    "TimingPointName": "Oud-Alblas, Brug",
+    "TimingPointCode": "53560250",
+    "StopAreaCode": "OAlBr",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
   },
   "53560260": {
     "Longitude": 4.7288394,
@@ -31403,6 +31893,22 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "53603320": {
+    "Longitude": 4.652999,
+    "Latitude": 51.774677,
+    "TimingPointTown": "Dordrecht",
+    "TimingPointName": "Dordrecht, Laan van Europa",
+    "TimingPointCode": "53603320",
+    "StopAreaCode": "DdLaa"
+  },
+  "53603321": {
+    "Longitude": 4.652999,
+    "Latitude": 51.774677,
+    "TimingPointTown": "Dordrecht",
+    "TimingPointName": "Dordrecht, Laan van Europa",
+    "TimingPointCode": "53603321",
+    "StopAreaCode": "DdLaa"
+  },
   "53603510": {
     "Longitude": 4.704519,
     "Latitude": 51.817173,
@@ -31723,12 +32229,32 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "53606350": {
+    "Longitude": 4.6469965,
+    "Latitude": 51.78816,
+    "TimingPointTown": "Dordrecht",
+    "TimingPointName": "Dordrecht, Kreekweg",
+    "TimingPointCode": "53606350",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "53606360": {
     "Longitude": 4.6468377,
     "Latitude": 51.788094,
     "TimingPointTown": "Dordrecht",
     "TimingPointName": "Dordrecht, Kreekweg",
     "TimingPointCode": "53606360",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53606370": {
+    "Longitude": 4.6471143,
+    "Latitude": 51.790684,
+    "TimingPointTown": "Dordrecht",
+    "TimingPointName": "Dordrecht, Kilkade",
+    "TimingPointCode": "53606370",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -31742,6 +32268,16 @@
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53606430": {
+    "Longitude": 4.6483946,
+    "Latitude": 51.79747,
+    "TimingPointTown": "Dordrecht",
+    "TimingPointName": "Dordrecht, Van Leeuwenhoekweg",
+    "TimingPointCode": "53606430",
+    "StopAreaCode": "DdVLe",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
   },
   "53606440": {
     "Longitude": 4.6480947,
@@ -31762,6 +32298,16 @@
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53606470": {
+    "Longitude": 4.6489687,
+    "Latitude": 51.806698,
+    "TimingPointTown": "Dordrecht",
+    "TimingPointName": "Dordrecht, Handelskade",
+    "TimingPointCode": "53606470",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
   },
   "53606480": {
     "Longitude": 4.6481357,
@@ -32053,19 +32599,7 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "53609010": {},
-  "53609020": {},
-  "53609030": {},
-  "53609040": {},
-  "53609530": {},
   "53609540": {},
-  "53609550": {},
-  "53609560": {},
-  "53609590": {},
-  "53609610": {},
-  "53609700": {},
-  "53609730": {},
-  "53609900": {},
   "53620010": {
     "Longitude": 4.748848,
     "Latitude": 51.9917,
@@ -32156,8 +32690,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53629970": {},
-  "53629980": {},
   "53630010": {
     "Longitude": 4.832316,
     "Latitude": 51.94365,
@@ -32348,10 +32880,7 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "53639940": {},
   "53639960": {},
-  "53639970": {},
-  "53639980": {},
   "53640010": {
     "Longitude": 4.6761503,
     "Latitude": 51.887024,
@@ -32561,6 +33090,16 @@
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53641230": {
+    "Longitude": 4.6909614,
+    "Latitude": 51.88925,
+    "TimingPointTown": "Nieuw-Lekkerland",
+    "TimingPointName": "Nieuw-Lekkerland, v.d. Veldenstraat",
+    "TimingPointCode": "53641230",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
   },
   "53641240": {
     "Longitude": 4.6911254,
@@ -32829,6 +33368,26 @@
     "TimingPointName": "Sliedrecht, Craijensteijn",
     "TimingPointCode": "53650340",
     "StopAreaCode": "SdtCr",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53650360": {
+    "Longitude": 4.769333,
+    "Latitude": 51.822556,
+    "TimingPointTown": "Sliedrecht",
+    "TimingPointName": "Sliedrecht, Ziekenhuis",
+    "TimingPointCode": "53650360",
+    "StopAreaCode": "SdtZh",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53650370": {
+    "Longitude": 4.769333,
+    "Latitude": 51.822556,
+    "TimingPointTown": "Sliedrecht",
+    "TimingPointName": "Sliedrecht, Ziekenhuis",
+    "TimingPointCode": "53650370",
+    "StopAreaCode": "SdtZh",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
@@ -33142,15 +33701,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53659500": {},
-  "53659510": {},
-  "53659560": {},
-  "53659631": {},
-  "53659670": {},
-  "53659700": {},
-  "53659710": {},
-  "53659720": {},
-  "53659731": {},
   "53660020": {
     "Longitude": 4.78822,
     "Latitude": 51.870453,
@@ -33511,6 +34061,36 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "53690210": {
+    "Longitude": 4.7406516,
+    "Latitude": 52.039104,
+    "TimingPointTown": "Sluipwijk",
+    "TimingPointName": "Sluipwijk, Kerk",
+    "TimingPointCode": "53690210",
+    "StopAreaCode": "SluKer",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53690230": {
+    "Longitude": 4.741407,
+    "Latitude": 52.033222,
+    "TimingPointTown": "Sluipwijk",
+    "TimingPointName": "Sluipwijk, Ree",
+    "TimingPointCode": "53690230",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53690250": {
+    "Longitude": 4.7385683,
+    "Latitude": 52.023956,
+    "TimingPointTown": "Sluipwijk",
+    "TimingPointName": "Sluipwijk, 't Vaantje",
+    "TimingPointCode": "53690250",
+    "StopAreaCode": "SluVaa",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "53690270": {
     "Longitude": 4.6907268,
     "Latitude": 52.054424,
@@ -33609,6 +34189,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "53692020": {
+    "Longitude": 4.7298193,
+    "Latitude": 52.044285,
+    "TimingPointTown": "Reeuwijk-Brug",
+    "TimingPointName": "Reeuwijk-Brug, Treebord, hoek Dunantlaan",
+    "TimingPointCode": "53692020",
+    "StopAreaCode": "ReBTre",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "53692050": {
     "Longitude": 4.730403,
     "Latitude": 52.04523,
@@ -33619,8 +34209,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53699970": {},
-  "53699980": {},
   "53703030": {
     "Longitude": 4.7478094,
     "Latitude": 51.816273,
@@ -34027,12 +34615,32 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "53706020": {
+    "Longitude": 4.632635,
+    "Latitude": 51.78022,
+    "TimingPointTown": "Dordrecht",
+    "TimingPointName": "Dordrecht, Wieldrechtse Zeedijk",
+    "TimingPointCode": "53706020",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "53706050": {
     "Longitude": 4.63709,
     "Latitude": 51.779827,
     "TimingPointTown": "Dordrecht",
     "TimingPointName": "Dordrecht, Einsteinstraat",
     "TimingPointCode": "53706050",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "53706060": {
+    "Longitude": 4.637245,
+    "Latitude": 51.780113,
+    "TimingPointTown": "Dordrecht",
+    "TimingPointName": "Dordrecht, Einsteinstraat",
+    "TimingPointCode": "53706060",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
@@ -34044,6 +34652,26 @@
     "TimingPointName": "Dordrecht, Drechtwerk",
     "TimingPointCode": "53706090",
     "StopAreaCode": "DdDre",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "53706100": {
+    "Longitude": 4.643015,
+    "Latitude": 51.779972,
+    "TimingPointTown": "Dordrecht",
+    "TimingPointName": "Dordrecht, Drechtwerk",
+    "TimingPointCode": "53706100",
+    "StopAreaCode": "DdDre",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "53706210": {
+    "Longitude": 4.6443486,
+    "Latitude": 51.77556,
+    "TimingPointTown": "Dordrecht",
+    "TimingPointName": "Dordrecht, Rijksstraatweg/Motel",
+    "TimingPointCode": "53706210",
+    "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
@@ -34073,6 +34701,26 @@
     "TimingPointTown": "Dordrecht",
     "TimingPointName": "Dordrecht, Wieldrecht",
     "TimingPointCode": "53706310",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53706320": {
+    "Longitude": 4.6296782,
+    "Latitude": 51.78457,
+    "TimingPointTown": "Dordrecht",
+    "TimingPointName": "Dordrecht, Wieldrecht",
+    "TimingPointCode": "53706320",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "53706330": {
+    "Longitude": 4.6389346,
+    "Latitude": 51.784836,
+    "TimingPointTown": "Dordrecht",
+    "TimingPointName": "Dordrecht, Wieldrechtseweg",
+    "TimingPointCode": "53706330",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -34777,10 +35425,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "53709570": {},
-  "53709580": {},
-  "53709620": {},
-  "53709730": {},
   "53709770": {
     "Longitude": 4.6725106,
     "Latitude": 51.775967,
@@ -34821,8 +35465,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53709910": {},
-  "53709920": {},
   "53720010": {
     "Longitude": 4.7679996,
     "Latitude": 51.972286,
@@ -35003,7 +35645,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53729990": {},
   "53740010": {
     "Longitude": 4.71727,
     "Latitude": 51.89408,
@@ -35264,7 +35905,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53749510": {},
   "53749520": {},
   "53750010": {
     "Longitude": 4.8050017,
@@ -35526,8 +36166,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53759530": {},
-  "53759540": {},
   "53760010": {
     "Longitude": 4.8596606,
     "Latitude": 51.890186,
@@ -35834,8 +36472,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "53769410": {},
-  "53769420": {},
   "53840010": {
     "Longitude": 4.7984166,
     "Latitude": 51.920113,
@@ -35996,8 +36632,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "53849510": {},
-  "53849520": {},
   "53850010": {
     "Longitude": 4.84483,
     "Latitude": 51.82503,
@@ -36534,9 +37168,6 @@
     "TimingPointCode": "53852150",
     "StopAreaCode": "HdvDel"
   },
-  "53859520": {},
-  "53859530": {},
-  "53859620": {},
   "54000470": {
     "Longitude": 4.321721,
     "Latitude": 52.08829,
@@ -36597,9 +37228,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54009960": {},
-  "54009970": {},
-  "54009980": {},
   "54130041": {
     "Longitude": 4.4006205,
     "Latitude": 52.08754,
@@ -36610,10 +37238,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54139950": {},
-  "54139960": {},
-  "54139970": {},
-  "54139980": {},
   "54140330": {
     "Longitude": 4.3581514,
     "Latitude": 52.105003,
@@ -36715,8 +37339,6 @@
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
   "54149970": {},
-  "54219610": {},
-  "54219620": {},
   "54240130": {
     "Longitude": 4.387428,
     "Latitude": 52.154842,
@@ -36837,12 +37459,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54249970": {},
-  "54249980": {},
-  "54309610": {},
-  "54309620": {},
-  "54319610": {},
-  "54319620": {},
   "54330020": {
     "Longitude": 4.4716716,
     "Latitude": 52.13714,
@@ -37173,10 +37789,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54339950": {},
-  "54339960": {},
-  "54339980": {},
-  "54339990": {},
   "54340110": {
     "Longitude": 4.4511313,
     "Latitude": 52.165802,
@@ -37617,15 +38229,7 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54419910": {},
-  "54419920": {},
-  "54419930": {},
-  "54419940": {},
-  "54419950": {},
-  "54419960": {},
-  "54419970": {},
   "54419980": {},
-  "54419990": {},
   "54424130": {
     "Longitude": 4.4742346,
     "Latitude": 52.093224,
@@ -38575,7 +39179,6 @@
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
   "54441120": {},
-  "54441130": {},
   "54441140": {
     "Longitude": 4.4846163,
     "Latitude": 52.162315,
@@ -38606,8 +39209,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54441170": {},
-  "54441180": {},
   "54441190": {
     "Longitude": 4.470168,
     "Latitude": 52.15984,
@@ -38719,7 +39320,6 @@
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
   "54441310": {},
-  "54441320": {},
   "54441340": {
     "Longitude": 4.460859,
     "Latitude": 52.164757,
@@ -38790,8 +39390,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54441410": {},
-  "54441420": {},
   "54441430": {
     "Longitude": 4.472074,
     "Latitude": 52.163837,
@@ -38822,12 +39420,32 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "54441460": {
+    "Longitude": 4.4736733,
+    "Latitude": 52.164963,
+    "TimingPointTown": "Leiden",
+    "TimingPointName": "Leiden, Darwinweg",
+    "TimingPointCode": "54441460",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "54441470": {
     "Longitude": 4.4647536,
     "Latitude": 52.165127,
     "TimingPointTown": "Leiden",
     "TimingPointName": "Leiden, Plesmanlaan",
     "TimingPointCode": "54441470",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "54441480": {
+    "Longitude": 4.464823,
+    "Latitude": 52.164616,
+    "TimingPointTown": "Leiden",
+    "TimingPointName": "Leiden, Plesmanlaan",
+    "TimingPointCode": "54441480",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -40202,39 +40820,12 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54449590": {},
-  "54449600": {},
-  "54449620": {},
   "54449630": {},
   "54449640": {},
-  "54449650": {},
-  "54449660": {},
-  "54449680": {},
-  "54449690": {},
-  "54449700": {},
-  "54449710": {},
-  "54449720": {},
-  "54449730": {},
-  "54449740": {},
-  "54449750": {},
-  "54449760": {},
-  "54449780": {},
-  "54449790": {},
   "54449800": {},
-  "54449820": {},
-  "54449830": {},
-  "54449840": {},
   "54449850": {},
-  "54449860": {},
-  "54449880": {},
   "54449890": {},
-  "54449920": {},
-  "54449930": {},
-  "54449940": {},
   "54449950": {},
-  "54449960": {},
-  "54449980": {},
-  "54449990": {},
   "54450010": {
     "Longitude": 4.424926,
     "Latitude": 52.18873,
@@ -40356,7 +40947,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54450160": {},
   "54451010": {
     "Longitude": 4.433534,
     "Latitude": 52.176,
@@ -40435,6 +41025,16 @@
     "TimingPointCode": "54460110",
     "StopAreaCode": "KwHee",
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "54460120": {
+    "Longitude": 4.427442,
+    "Latitude": 52.204308,
+    "TimingPointTown": "Katwijk",
+    "TimingPointName": "Katwijk, 't Heen",
+    "TimingPointCode": "54460120",
+    "StopAreaCode": "KwHee",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
   "54460130": {
@@ -40587,12 +41187,32 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "54460270": {
+    "Longitude": 4.4342713,
+    "Latitude": 52.201027,
+    "TimingPointTown": "Katwijk",
+    "TimingPointName": "Katwijk, Lijnbaanstraat",
+    "TimingPointCode": "54460270",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "54460280": {
     "Longitude": 4.4349165,
     "Latitude": 52.20506,
     "TimingPointTown": "Katwijk",
     "TimingPointName": "Katwijk, Nijverheidsstraat",
     "TimingPointCode": "54460280",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "54460290": {
+    "Longitude": 4.435337,
+    "Latitude": 52.20454,
+    "TimingPointTown": "Katwijk",
+    "TimingPointName": "Katwijk, Nijverheidsstraat",
+    "TimingPointCode": "54460290",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -40607,11 +41227,8 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54460320": {},
-  "54460340": {},
+  "54460330": {},
   "54460350": {},
-  "54460360": {},
-  "54460370": {},
   "54460520": {
     "Longitude": 4.425788,
     "Latitude": 52.190804,
@@ -40922,6 +41539,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "54461170": {
+    "Longitude": 4.430305,
+    "Latitude": 52.201797,
+    "TimingPointTown": "Katwijk",
+    "TimingPointName": "Katwijk, Ambachtsweg",
+    "TimingPointCode": "54461170",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "54461570": {
     "Longitude": 4.4092245,
     "Latitude": 52.20182,
@@ -41002,12 +41629,8 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54469930": {},
   "54469940": {},
-  "54469950": {},
-  "54469960": {},
   "54469970": {},
-  "54469980": {},
   "54500070": {
     "Longitude": 4.571183,
     "Latitude": 52.042446,
@@ -41148,11 +41771,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54509610": {},
-  "54509620": {},
-  "54509950": {},
-  "54509970": {},
-  "54509980": {},
   "54510020": {
     "Longitude": 4.5333586,
     "Latitude": 52.072956,
@@ -41283,10 +41901,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54519610": {},
-  "54519620": {},
-  "54519970": {},
-  "54519980": {},
   "54520020": {
     "Longitude": 4.522957,
     "Latitude": 52.147015,
@@ -41617,7 +42231,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54530280": {},
   "54530290": {},
   "54530310": {
     "Longitude": 4.5373816,
@@ -41779,8 +42392,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54530520": {},
-  "54530530": {},
   "54530540": {
     "Longitude": 4.532827,
     "Latitude": 52.14661,
@@ -41821,8 +42432,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54530580": {},
-  "54530590": {},
   "54530600": {
     "Longitude": 4.516358,
     "Latitude": 52.165485,
@@ -41864,7 +42473,6 @@
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
   "54530670": {},
-  "54530680": {},
   "54530700": {
     "Longitude": 4.5330906,
     "Latitude": 52.174057,
@@ -41885,8 +42493,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54530720": {},
-  "54530730": {},
   "54530740": {
     "Longitude": 4.541381,
     "Latitude": 52.15783,
@@ -42275,19 +42881,7 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54539860": {},
-  "54539870": {},
-  "54539880": {},
-  "54539890": {},
-  "54539910": {},
   "54539920": {},
-  "54539930": {},
-  "54539940": {},
-  "54539950": {},
-  "54539960": {},
-  "54539970": {},
-  "54539980": {},
-  "54539990": {},
   "54540010": {
     "Longitude": 4.488703,
     "Latitude": 52.186543,
@@ -42966,11 +43560,7 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54559940": {},
-  "54559950": {},
-  "54559960": {},
   "54559970": {},
-  "54559980": {},
   "54560010": {
     "Longitude": 4.4407744,
     "Latitude": 52.221996,
@@ -43373,13 +43963,7 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54609910": {},
   "54609920": {},
-  "54609930": {},
-  "54609940": {},
-  "54609970": {},
-  "54609980": {},
-  "54609990": {},
   "54610010": {
     "Longitude": 4.5750427,
     "Latitude": 52.077995,
@@ -43500,9 +44084,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54619960": {},
-  "54619970": {},
-  "54619980": {},
   "54620010": {
     "Longitude": 4.5482597,
     "Latitude": 52.137844,
@@ -43673,8 +44254,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54620180": {},
-  "54620190": {},
   "54620200": {
     "Longitude": 4.622756,
     "Latitude": 52.13284,
@@ -43855,13 +44434,7 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54629930": {},
-  "54629940": {},
-  "54629950": {},
-  "54629960": {},
   "54629970": {},
-  "54629980": {},
-  "54629990": {},
   "54630010": {
     "Longitude": 4.6044755,
     "Latitude": 52.164986,
@@ -43962,7 +44535,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54630110": {},
   "54630120": {},
   "54632010": {
     "Longitude": 4.6647935,
@@ -44004,7 +44576,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54639970": {},
   "54640500": {
     "Longitude": 4.6140494,
     "Latitude": 52.202946,
@@ -44175,8 +44746,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54649980": {},
-  "54649990": {},
   "54650020": {
     "Longitude": 4.4851193,
     "Latitude": 52.202496,
@@ -44413,7 +44982,6 @@
     "TimingPointCode": "54651450",
     "StopAreaCode": null
   },
-  "54659970": {},
   "54660020": {
     "Longitude": 4.4416404,
     "Latitude": 52.22256,
@@ -44784,12 +45352,8 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54669930": {},
-  "54669940": {},
-  "54669950": {},
   "54669960": {},
   "54669970": {},
-  "54669980": {},
   "54700010": {
     "Longitude": 4.6625137,
     "Latitude": 52.056248,
@@ -44910,8 +45474,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54700130": {},
-  "54700140": {},
   "54700150": {
     "Longitude": 4.6418138,
     "Latitude": 52.054222,
@@ -45386,12 +45948,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54709930": {},
-  "54709940": {},
-  "54709950": {},
-  "54709960": {},
-  "54709970": {},
-  "54709980": {},
   "54710010": {
     "Longitude": 4.635607,
     "Latitude": 52.075684,
@@ -45913,7 +46469,6 @@
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
   "54720330": {},
-  "54720340": {},
   "54720350": {
     "Longitude": 4.662478,
     "Latitude": 52.150303,
@@ -46004,10 +46559,7 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54720450": {},
   "54720460": {},
-  "54720470": {},
-  "54720480": {},
   "54720500": {
     "Longitude": 4.652909,
     "Latitude": 52.128895,
@@ -46048,8 +46600,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54720540": {},
-  "54720550": {},
   "54720620": {
     "Longitude": 4.660012,
     "Latitude": 52.153694,
@@ -47160,6 +47710,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "54724722": {
+    "Longitude": 4.657875,
+    "Latitude": 52.12438,
+    "TimingPointTown": "Alphen a/d Rijn",
+    "TimingPointName": "Alphen a/d Rijn, Station",
+    "TimingPointCode": "54724722",
+    "StopAreaCode": "ApRSta",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
   "54725000": {
     "Longitude": 4.6764183,
     "Latitude": 52.144733,
@@ -47278,29 +47838,10 @@
     "TimingPointCode": "54726020",
     "StopAreaCode": "ApRSta"
   },
-  "54729760": {},
   "54729770": {},
   "54729780": {},
-  "54729790": {},
-  "54729800": {},
-  "54729810": {},
-  "54729820": {},
-  "54729830": {},
-  "54729840": {},
   "54729860": {},
   "54729870": {},
-  "54729880": {},
-  "54729890": {},
-  "54729900": {},
-  "54729910": {},
-  "54729920": {},
-  "54729930": {},
-  "54729940": {},
-  "54729950": {},
-  "54729960": {},
-  "54729970": {},
-  "54729980": {},
-  "54729990": {},
   "54732010": {
     "Longitude": 4.6688156,
     "Latitude": 52.167797,
@@ -47391,7 +47932,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "54732100": {},
   "54732110": {},
   "54732130": {
     "Longitude": 4.7105627,
@@ -47423,7 +47963,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "54739980": {},
   "54739990": {},
   "55000050": {
     "Longitude": 4.637967,
@@ -47980,7 +48519,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "55349980": {},
   "55360010": {
     "Longitude": 4.525491,
     "Latitude": 52.291172,
@@ -48021,8 +48559,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "55369970": {},
-  "55369980": {},
   "55440010": {
     "Longitude": 4.5395126,
     "Latitude": 52.243088,
@@ -48349,12 +48885,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "55449910": {},
-  "55449930": {},
-  "55449940": {},
-  "55449960": {},
-  "55449970": {},
-  "55449980": {},
   "55460010": {
     "Longitude": 4.5062556,
     "Latitude": 52.271416,
@@ -48405,7 +48935,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "55469980": {},
   "55540010": {
     "Longitude": 4.5116158,
     "Latitude": 52.209007,
@@ -48626,11 +49155,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "55549920": {},
-  "55549940": {},
-  "55549950": {},
-  "55549960": {},
-  "55549970": {},
   "55549980": {},
   "55557000": {
     "Longitude": 4.566486,
@@ -48912,8 +49436,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "55569970": {},
-  "55569980": {},
   "56430020": {
     "Longitude": 4.6039767,
     "Latitude": 52.280815,
@@ -49114,7 +49636,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "56439970": {},
   "56537000": {
     "Longitude": 4.596784,
     "Latitude": 52.21632,
@@ -49385,9 +49906,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "56549960": {},
-  "56549970": {},
-  "56549980": {},
   "56642010": {
     "Longitude": 4.643293,
     "Latitude": 52.22307,
@@ -49739,7 +50257,6 @@
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
   "57439970": {},
-  "57439980": {},
   "57530110": {
     "Longitude": 4.6871247,
     "Latitude": 52.25946,
@@ -49760,6 +50277,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "58431010": {
+    "Longitude": 4.727312,
+    "Latitude": 52.182697,
+    "TimingPointTown": "Papenveer",
+    "TimingPointName": "Papenveer, Sluispad",
+    "TimingPointCode": "58431010",
+    "StopAreaCode": "PpvSlu",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "58431020": {
     "Longitude": 4.7275743,
     "Latitude": 52.182774,
@@ -49770,8 +50297,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "58431030": {},
-  "58431050": {},
   "58442100": {
     "Longitude": 4.7997375,
     "Latitude": 52.246887,
@@ -49860,8 +50385,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "58449970": {},
-  "58449980": {},
   "58532000": {
     "Longitude": 4.796227,
     "Latitude": 52.24217,
@@ -50062,6 +50585,26 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "58631020": {
+    "Longitude": 4.7121086,
+    "Latitude": 52.19311,
+    "TimingPointTown": "Langeraar",
+    "TimingPointName": "Langeraar, Kerkpad",
+    "TimingPointCode": "58631020",
+    "StopAreaCode": "LgrRKK",
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "58631030": {
+    "Longitude": 4.7041464,
+    "Latitude": 52.19062,
+    "TimingPointTown": "Langeraar",
+    "TimingPointName": "Langeraar, Kuiperserf",
+    "TimingPointCode": "58631030",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "ACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "58631040": {
     "Longitude": 4.7041306,
     "Latitude": 52.19071,
@@ -50072,8 +50615,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "58631070": {},
-  "58632100": {},
   "58632120": {
     "Longitude": 4.759366,
     "Latitude": 52.192913,
@@ -50111,6 +50652,16 @@
     "TimingPointName": "Nieuwveen, Kerkstraat",
     "TimingPointCode": "58632150",
     "StopAreaCode": "nwvker",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "58632160": {
+    "Longitude": 4.7405047,
+    "Latitude": 52.194565,
+    "TimingPointTown": "Nieuwveen",
+    "TimingPointName": "Nieuwveen, Kattenbrug",
+    "TimingPointCode": "58632160",
+    "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
@@ -50464,8 +51015,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "59439970": {},
-  "59439980": {},
+  "59532000": {
+    "Longitude": 4.80791,
+    "Latitude": 52.12853,
+    "TimingPointTown": "Zegveld",
+    "TimingPointName": "Zegveld, Middenweg",
+    "TimingPointCode": "59532000",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "59532020": {
     "Longitude": 4.85162,
     "Latitude": 52.166286,
@@ -50636,6 +51195,26 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "59532220": {
+    "Longitude": 4.807998,
+    "Latitude": 52.1285,
+    "TimingPointTown": "Zegveld",
+    "TimingPointName": "Zegveld, Middenweg",
+    "TimingPointCode": "59532220",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "59632000": {
+    "Longitude": 4.7922716,
+    "Latitude": 52.121746,
+    "TimingPointTown": "Meije",
+    "TimingPointName": "Meije, RK Kerk",
+    "TimingPointCode": "59632000",
+    "StopAreaCode": "MeiRKK",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "59632010": {
     "Longitude": 4.793634,
     "Latitude": 52.156597,
@@ -50745,6 +51324,16 @@
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
+  },
+  "59632220": {
+    "Longitude": 4.7924466,
+    "Latitude": 52.121765,
+    "TimingPointTown": "Meije",
+    "TimingPointName": "Meije, RK Kerk",
+    "TimingPointCode": "59632220",
+    "StopAreaCode": "MeiRKK",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
   "59632310": {
     "Longitude": 4.7681456,
@@ -50856,10 +51445,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "59639950": {},
-  "59639960": {},
-  "59639970": {},
-  "59639980": {},
   "59732010": {
     "Longitude": 4.727577,
     "Latitude": 52.141056,
@@ -50941,8 +51526,6 @@
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
   "59732090": {},
-  "59732100": {},
-  "59739980": {},
   "61360020": {
     "Longitude": 5.2876515,
     "Latitude": 51.87886,
@@ -50959,6 +51542,16 @@
     "TimingPointTown": "Geldermalsen",
     "TimingPointName": "Geldermalsen, Prinses Marijkeweg",
     "TimingPointCode": "61360030",
+    "StopAreaCode": "GdmMar",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "61360040": {
+    "Longitude": 5.3003607,
+    "Latitude": 51.88537,
+    "TimingPointTown": "Geldermalsen",
+    "TimingPointName": "Geldermalsen, Prinses Marijkeweg",
+    "TimingPointCode": "61360040",
     "StopAreaCode": "GdmMar",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -51073,6 +51666,16 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
+  "61360330": {
+    "Longitude": 5.2906756,
+    "Latitude": 51.8773,
+    "TimingPointTown": "Geldermalsen",
+    "TimingPointName": "Geldermalsen, Rode Kruis Gebouw",
+    "TimingPointCode": "61360330",
+    "StopAreaCode": "GdmKen",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "61360350": {
     "Longitude": 5.270798,
     "Latitude": 51.881603,
@@ -51123,8 +51726,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "61369670": {},
-  "61369680": {},
   "61450020": {
     "Longitude": 5.24106,
     "Latitude": 51.821438,
@@ -51205,10 +51806,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "61459510": {},
-  "61459520": {},
-  "61459610": {},
-  "61459620": {},
   "61550060": {
     "Longitude": 5.21122,
     "Latitude": 51.81899,
@@ -51305,8 +51902,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "61559510": {},
-  "61559520": {},
   "61650160": {
     "Longitude": 5.1761436,
     "Latitude": 51.829754,
@@ -51397,8 +51992,6 @@
     "TimingPointWheelChairAccessible": "ACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "61759510": {},
-  "61759520": {},
   "61760030": {
     "Longitude": 5.0797815,
     "Latitude": 51.873222,
@@ -51719,12 +52312,42 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "62230080": {
+    "Longitude": 5.2270913,
+    "Latitude": 51.748146,
+    "TimingPointTown": "Ammerzoden",
+    "TimingPointName": "Ammerzoden, Haarstraat",
+    "TimingPointCode": "62230080",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "62330060": {
+    "Longitude": 5.1875954,
+    "Latitude": 51.769363,
+    "TimingPointTown": "Delwijnen",
+    "TimingPointName": "Delwijnen, Delwijnsestraat",
+    "TimingPointCode": "62330060",
+    "StopAreaCode": "DlwDel",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "62330210": {
     "Longitude": 5.168228,
     "Latitude": 51.768906,
     "TimingPointTown": "Nederhemert",
     "TimingPointName": "Nederhemert, Nederhemertsekade",
     "TimingPointCode": "62330210",
+    "StopAreaCode": "NdhNed",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "62330220": {
+    "Longitude": 5.1678376,
+    "Latitude": 51.76876,
+    "TimingPointTown": "Nederhemert",
+    "TimingPointName": "Nederhemert, Nederhemertsekade",
+    "TimingPointCode": "62330220",
     "StopAreaCode": "NdhNed",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -51736,6 +52359,24 @@
     "TimingPointName": "Aalst, E.P. van Ooijenstraat",
     "TimingPointCode": "62430420",
     "StopAreaCode": "AlsOoy",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "62470200": {
+    "Longitude": 5.2137246,
+    "Latitude": 51.77488,
+    "TimingPointTown": "Kerkwijk",
+    "TimingPointName": "Kerkwijk, Molenveldweg",
+    "TimingPointCode": "62470200",
+    "StopAreaCode": "KwMvw"
+  },
+  "62570170": {
+    "Longitude": 5.227106,
+    "Latitude": 51.801178,
+    "TimingPointTown": "Zaltbommel",
+    "TimingPointName": "Zaltbommel, Leutsestraat",
+    "TimingPointCode": "62570170",
+    "StopAreaCode": "ZbmLss",
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
@@ -51759,6 +52400,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "62670050": {
+    "Longitude": 5.207043,
+    "Latitude": 51.79706,
+    "TimingPointTown": "Gameren",
+    "TimingPointName": "Gameren, Middelkampseweg",
+    "TimingPointCode": "62670050",
+    "StopAreaCode": "GamMid",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "62670060": {
     "Longitude": 5.2072315,
     "Latitude": 51.79713,
@@ -51779,6 +52430,16 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "62670200": {
+    "Longitude": 5.1791067,
+    "Latitude": 51.80373,
+    "TimingPointTown": "Nieuwaal",
+    "TimingPointName": "Nieuwaal, Hogeweg",
+    "TimingPointCode": "62670200",
+    "StopAreaCode": "NwlHog",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "62770090": {
     "Longitude": 5.1384,
     "Latitude": 51.80544,
@@ -51786,6 +52447,26 @@
     "TimingPointName": "Zuilichem, Zijlstraat",
     "TimingPointCode": "62770090",
     "StopAreaCode": "ZlcZij",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "62770100": {
+    "Longitude": 5.1382546,
+    "Latitude": 51.80548,
+    "TimingPointTown": "Zuilichem",
+    "TimingPointName": "Zuilichem, Zijlstraat",
+    "TimingPointCode": "62770100",
+    "StopAreaCode": "ZlcZij",
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "63010360": {
+    "Longitude": 5.2492046,
+    "Latitude": 51.747734,
+    "TimingPointTown": "Hedel",
+    "TimingPointName": "Hedel, Oudewaai",
+    "TimingPointCode": "63010360",
+    "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
@@ -51809,12 +52490,32 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
+  "90000030": {
+    "Longitude": 4.830379,
+    "Latitude": 52.077538,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, van Duijn",
+    "TimingPointCode": "90000030",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
   "90000031": {
     "Longitude": 4.830365,
     "Latitude": 52.077477,
     "TimingPointTown": "Woerden",
     "TimingPointName": "Woerden, van Duijn",
     "TimingPointCode": "90000031",
+    "StopAreaCode": null,
+    "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
+    "TimingPointVisualAccessible": "NOTACCESSIBLE"
+  },
+  "90000032": {
+    "Longitude": 4.854341,
+    "Latitude": 52.086555,
+    "TimingPointTown": "Woerden",
+    "TimingPointName": "Woerden, In het bos",
+    "TimingPointCode": "90000032",
     "StopAreaCode": null,
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
@@ -52489,9 +53190,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "ACCESSIBLE"
   },
-  "90000318": {},
-  "90000319": {},
-  "90000321": {},
   "90000322": {
     "Longitude": 4.5720077,
     "Latitude": 52.27642,
@@ -52522,7 +53220,6 @@
     "TimingPointWheelChairAccessible": "NOTACCESSIBLE",
     "TimingPointVisualAccessible": "NOTACCESSIBLE"
   },
-  "90000551": {},
   "90000552": {
     "Longitude": 4.5356264,
     "Latitude": 52.278606,
@@ -52596,65 +53293,5 @@
     "TimingPointName": "Utrecht, Centraal Jaarbeursplein",
     "TimingPointCode": "90000843",
     "StopAreaCode": "UtJbp"
-  },
-  "99991200": {},
-  "99991201": {},
-  "99991202": {},
-  "99991203": {},
-  "99991204": {},
-  "99991205": {},
-  "99991206": {},
-  "99991207": {},
-  "99991208": {},
-  "99991209": {},
-  "99991210": {},
-  "99991220": {},
-  "99991230": {},
-  "99991231": {},
-  "99991232": {},
-  "99991233": {},
-  "99991234": {},
-  "99991235": {},
-  "99991236": {},
-  "99991240": {},
-  "99991241": {},
-  "99991242": {},
-  "99991243": {},
-  "99991244": {},
-  "99991245": {},
-  "99991246": {},
-  "99991247": {},
-  "99991248": {},
-  "99991251": {},
-  "99991300": {},
-  "99991301": {},
-  "99992200": {},
-  "99992201": {},
-  "99992202": {},
-  "99992203": {},
-  "99992204": {},
-  "99992205": {},
-  "99992206": {},
-  "99992207": {},
-  "99992208": {},
-  "99992209": {},
-  "99992210": {},
-  "99992220": {},
-  "99992230": {},
-  "99992231": {},
-  "99992232": {},
-  "99992233": {},
-  "99992234": {},
-  "99992235": {},
-  "99992236": {},
-  "99992240": {},
-  "99992241": {},
-  "99993200": {},
-  "99993201": {},
-  "99993202": {},
-  "99993203": {},
-  "99994200": {},
-  "99994201": {},
-  "99994202": {},
-  "99994203": {}
+  }
 }
