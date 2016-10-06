@@ -58,7 +58,7 @@ setInterval(() => {
         delete rows[key];
       }
     }  
-}, 5000);
+}, 15 * 60 * 1000);
 
 var server = require('http').createServer(app);
 var io = require('socket.io')(server);
