@@ -209,11 +209,22 @@ module.exports = {
 
                     if (nextRow && nextRow.tripStopStatus === 'DRIVING') {
                         row.label = `${row.dataOwnerCode} ${row.linePlanningNumber} (${row.vehicleNumber}) driving from ${timingPointName(row.timingPointCode)} to ${timingPointName(nextRow.timingPointCode)}`;
+
+                        row.seconds = (Date.parse(`2016-10-7 ${nextRow.expectedArrivalTime}+0200`) - Date.now()) / 1000;
+
+                        row.from = {
+                            latitude: row.latitude,
+                            longitude: row.longitude
+                        };
+
+                        row.to = {
+                            latitude: nextRow.latitude,
+                            longitude: nextRow.longitude
+                        }
                     }
                 }
-
             })
-            .filter(row => (row.detectedRdX || row.tripStopStatus === 'ARRIVED')) // Only where we know the location
+            .filter(row => (row.detectedRdX || row.tripStopStatus === 'ARRIVED' || (row.from && row.from.latitude))) // Only where we know the location
         ;
     }
 };

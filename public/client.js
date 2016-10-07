@@ -30,11 +30,11 @@ $(function() {
   }
 
   var mymap = L.map('mapid')
-    // .setView([52.06, 4.4], 13)
-    .locate({
-      setView: true,
-      maxZoom: 15
-    })
+    .setView([52.06, 4.4], 13)
+    // .locate({
+    //   setView: true,
+    //   maxZoom: 15
+    // })
     .on('zoomend', e => {
       const bounds = e.target.getBounds();
       console.log('zoomed to ',bounds.getNorthWest(), bounds.getSouthEast())
@@ -84,9 +84,28 @@ $(function() {
 
   socket.on('openov', row => {
     // console.log(row);
+    var key = row.key;
 
-    if (row.latitude && row.longitude) {
-      var key = row.key;
+    if (row.from && row.from.latitude && row.to && row.to.longitude) {
+      // console.log(row)
+
+      var marker = markers[key];
+      if (marker) {
+        marker.removeFrom(mymap);
+      }
+
+      markers[key] = L.Marker
+        .movingMarker([
+            [row.from.latitude, row.to.longitude],
+            [row.to.latitude, row.to.longitude]
+          ], 
+          row.seconds * 1000, {
+            autostart: true,
+            title: row.label || row.linePlanningNumber
+          })
+        .addTo(mymap);
+
+    } else if (row.latitude && row.longitude) {
 
       var marker = markers[key];
       if (marker && row.journeyStopType === 'LAST') {
