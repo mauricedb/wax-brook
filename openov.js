@@ -210,7 +210,6 @@ module.exports = {
                     if (nextRow && nextRow.tripStopStatus === 'DRIVING') {
                         row.label = `${row.dataOwnerCode} ${row.linePlanningNumber} (${row.vehicleNumber}) driving from ${timingPointName(row.timingPointCode)} to ${timingPointName(nextRow.timingPointCode)}`;
 
-                        row.seconds = (Date.parse(`2016-10-7 ${nextRow.expectedArrivalTime}+0200`) - Date.now()) / 1000;
 
                         row.from = {
                             latitude: row.latitude,
@@ -219,7 +218,8 @@ module.exports = {
 
                         row.to = {
                             latitude: nextRow.latitude,
-                            longitude: nextRow.longitude
+                            longitude: nextRow.longitude,
+                            expectedArrivalTime: nextRow.expectedArrivalTime
                         }
                     }
                 }

@@ -58,30 +58,6 @@ $(function() {
       accessToken: 'pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw'
   }).addTo(mymap);
 
-
-    L.Marker
-      .movingMarker([
-        [52.09047639407369, 4.4725942611694345],
-        [52.07103902754002, 4.480919837951661]], 
-        60000, {
-          autostart: true
-      })
-      .addTo(mymap);
-
-  socket.on('move-from-to', row => {
-    var key = row.key;
-    markers[key] = L.Marker
-      .movingMarker([
-          [row.from.latitude, row.to.longitude],
-          [row.to.latitude, row.to.longitude]
-        ], 
-        row.seconds * 1000, {
-          autostart: true,
-          title: row.label
-        })
-      .addTo(mymap);
-  });
-
   socket.on('openov', row => {
     // console.log(row);
     var key = row.key;
@@ -94,12 +70,14 @@ $(function() {
         marker.removeFrom(mymap);
       }
 
+      var seconds = (Date.parse(`2016-10-8 ${row.to.expectedArrivalTime}+0200`) - Date.now()) / 1000;
+
       markers[key] = L.Marker
         .movingMarker([
-            [row.from.latitude, row.to.longitude],
+            [row.from.latitude, row.from.longitude],
             [row.to.latitude, row.to.longitude]
           ], 
-          row.seconds * 1000, {
+          seconds * 1000, {
             autostart: true,
             title: row.label || row.linePlanningNumber
           })
