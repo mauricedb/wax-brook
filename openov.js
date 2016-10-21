@@ -15,7 +15,7 @@ function getTimingPoint(code) {
     var tp = timingPoints[code];
     if (!tp) {
         timingPoints[code] = {};
-        let url = `http://v0.ovapi.nl/tpc/${code}`;
+        var url = `http://v0.ovapi.nl/tpc/${code}`;
 
         fetch(url)
             .then(rsp => {
