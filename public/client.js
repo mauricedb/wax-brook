@@ -70,7 +70,9 @@ $(function() {
         marker.removeFrom(mymap);
       }
 
-      var seconds = (Date.parse(`2016-10-8 ${row.to.expectedArrivalTime}+0200`) - Date.now()) / 1000;
+      var iso = new Date().toISOString();
+      var expectedArrival = iso.replace(/T\d\d:\d\d:\d\d\.\d\d\dZ/, `T${row.to.expectedArrivalTime}+0200`)
+      var seconds = (Date.parse(expectedArrival) - Date.now()) / 1000;
 
       markers[key] = L.Marker
         .movingMarker([
