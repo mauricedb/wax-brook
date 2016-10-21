@@ -15,14 +15,21 @@ function getTimingPoint(code) {
     var tp = timingPoints[code];
     if (!tp) {
         timingPoints[code] = {};
+        let url = `http://v0.ovapi.nl/tpc/${code}`;
 
-        fetch(`http://v0.ovapi.nl/tpc/${code}`)
+        fetch(url)
+            .then(rsp => {
+                if (rsp.status >= 400) {
+                    throw new Error(`${rsp.status} ${rsp.statusText} ${url}`);
+                }
+            })
             .then(rsp => rsp.json())
             .then(data => {
                 timingPoints[code] = data[code].Stop;
 
                 fs.writeFile('./timingPoints.json', JSON.stringify(timingPoints, null, '  '));
             })
+            .catch(err => console.log(err.message))
 
         return {};
     }
@@ -47,7 +54,7 @@ function decodeToArray(decoded, cb) {
 
     converter.fromString(decoded.toString(), (err, result) => {
         var temp = result.shift();
-        console.log(temp.field8, temp.field3, 'rceived');
+        console.log(temp.field8, temp.field3, 'received');
 
         result.shift()
         var fields = result.shift();
