@@ -2,6 +2,7 @@
 // where your node app starts
 
 // init project
+var process = require('process');
 var express = require('express');
 var app = express();
 
@@ -18,6 +19,10 @@ app.get("/", function (request, response) {
 
 app.get("/dreams", function (request, response) {
   response.send(dreams);
+});
+
+app.get('/kill', function(){
+  process.exit();
 });
 
 // could also use the POST body instead of query string: http://expressjs.com/en/api.html#req.body
