@@ -71,7 +71,7 @@ $(function() {
       }
 
       var iso = new Date().toISOString();
-      var expectedArrival = iso.replace(/T\d\d:\d\d:\d\d\.\d\d\dZ/, `T${row.to.expectedArrivalTime}+0200`)
+      var expectedArrival = iso.replace(/T\d\d:\d\d:\d\d\.\d\d\dZ/, `T${row.to.expectedArrivalTime}+0100`)
       var seconds = (Date.parse(expectedArrival) - Date.now()) / 1000;
 
       markers[key] = L.Marker
